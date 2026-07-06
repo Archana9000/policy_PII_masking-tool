@@ -1,0 +1,6536 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Policy declineIsNotReferralFlag="false" disablePolicyLevelRisks="false">
+<UnderwritingQuestions>
+<VerbalDisclosure>
+<Value>true</Value>
+<Control />
+</VerbalDisclosure>
+<ReadDutyOfDisclosure>
+<Control />
+</ReadDutyOfDisclosure>
+<AcceptDirectMarketing>
+<Control />
+</AcceptDirectMarketing>
+<ReadCloseSale>
+<Control />
+</ReadCloseSale>
+<ClaimsDischargeDisclosure>
+<Value>false</Value>
+<Control />
+</ClaimsDischargeDisclosure>
+<PolicyCancelledDisclosure>
+<Value>false</Value>
+<Control />
+</PolicyCancelledDisclosure>
+<Bankrupt>
+<Value>false</Value>
+<Control />
+</Bankrupt>
+<CriminalOffenseDisclosure>
+<Value>false</Value>
+<Control />
+</CriminalOffenseDisclosure>
+<UnacceptableReferralVehicles>
+<Control />
+</UnacceptableReferralVehicles>
+<UnacceptableReferralVehiclesText>
+<Control />
+</UnacceptableReferralVehiclesText>
+<MotorDriverDisclosure>
+<AnyTrue>
+<Control />
+</AnyTrue>
+<OffenceDisclosure>
+<Value>false</Value>
+<Control />
+</OffenceDisclosure>
+<OffenceDisclosureText>
+<Control />
+</OffenceDisclosureText>
+<LicenseDisclosure>
+<Value>false</Value>
+<Control />
+</LicenseDisclosure>
+<LicenseDisclosureText>
+<Control />
+</LicenseDisclosureText>
+<DeclinedDisclosure>
+<Value>false</Value>
+<Control />
+</DeclinedDisclosure>
+<DeclinedDisclosureText>
+<Control />
+</DeclinedDisclosureText>
+<TrafficInfringementDisclosure>
+<Control />
+</TrafficInfringementDisclosure>
+</MotorDriverDisclosure>
+<CommercialMotorClaims />
+</UnderwritingQuestions>
+<Insured>
+<Insured1Name>
+<Value>XXXXXXXXXXXXXXXXXXX</Value>
+<Control />
+</Insured1Name>
+<Insured2Name>
+<Control />
+</Insured2Name>
+<Insured3Name>
+<Control />
+</Insured3Name>
+<TradingName>
+<Value>XXXXXXXXXX</Value>
+<Control />
+</TradingName>
+<Address>
+<Address1>
+<Value>XXXXXXXXXXXXXXX</Value>
+<Control />
+</Address1>
+<Address2>
+<Control />
+</Address2>
+<Postcode>
+<Value>XXXX</Value>
+<Control />
+</Postcode>
+<Suburb>
+<Value>XXXXXX</Value>
+<Control />
+</Suburb>
+<State>
+<Value>QLD</Value>
+<Control />
+</State>
+<Country>
+<Control />
+</Country>
+<DeliveryPointIdentifier>
+<Value>47041892</Value>
+<Control />
+</DeliveryPointIdentifier>
+<IsManuallyAdded>
+<Control />
+</IsManuallyAdded>
+</Address>
+<Phone>
+<Type>
+<Control />
+</Type>
+<Number>
+<Control />
+</Number>
+</Phone>
+<ConsentForContact>
+<Name>
+<Control />
+</Name>
+<Email>
+<Control />
+</Email>
+<PhoneType>
+<Control />
+</PhoneType>
+<PhoneNumber>
+<Control />
+</PhoneNumber>
+<ConsentTimestamp>
+<Control />
+</ConsentTimestamp>
+</ConsentForContact>
+<BankerId>
+<Control />
+</BankerId>
+<Email>
+<Control />
+</Email>
+<ContactName>
+<Control />
+</ContactName>
+<PreviousInsurer>
+<Value>CGU</Value>
+<Control />
+</PreviousInsurer>
+<OtherPreviousInsurer>
+<Control />
+</OtherPreviousInsurer>
+<PreviousInsured1Name>XXXXXXXXXXXXXXXXXXX</PreviousInsured1Name>
+<NameChangeAcceptedFlag>
+<Control />
+</NameChangeAcceptedFlag>
+<StructuredAddress>
+<StreetName>
+<Control />
+</StreetName>
+<StreetType>
+<Control />
+</StreetType>
+<HouseNumber1>
+<Control />
+</HouseNumber1>
+<AddressLine1>
+<Value>12 FIELDING WAY</Value>
+<Control />
+</AddressLine1>
+<AddressLine2>
+<Control />
+</AddressLine2>
+<FlatUnitType>
+<Control />
+</FlatUnitType>
+<FlatUnitNumber>
+<Control />
+</FlatUnitNumber>
+<FloorUnitType>
+<Control />
+</FloorUnitType>
+<FloorLevelNumber>
+<Control />
+</FloorLevelNumber>
+<CompositeHouseNumber>
+<Control />
+</CompositeHouseNumber>
+<PostalNumber>
+<Control />
+</PostalNumber>
+<CompositePostalNumber>
+<Control />
+</CompositePostalNumber>
+<PostalDeliveryType>
+<Control />
+</PostalDeliveryType>
+<Postcode>
+<Value>4817</Value>
+<Control />
+</Postcode>
+<Suburb>
+<Value>KIRWAN</Value>
+<Control />
+</Suburb>
+<State>
+<Value>QLD</Value>
+<Control />
+</State>
+<Country>
+<Control />
+</Country>
+<DeliveryPointIdentifier>
+<Value>47041892</Value>
+<Control />
+</DeliveryPointIdentifier>
+<PropertyName>
+<Control />
+</PropertyName>
+<UnitNumber>
+<Control />
+</UnitNumber>
+<StreetNumber>
+<Control />
+</StreetNumber>
+<StreetNoType>
+<Control />
+</StreetNoType>
+<IsManuallyAdded>
+<Control />
+</IsManuallyAdded>
+</StructuredAddress>
+<ExternalReferenceNumber>
+<Control />
+</ExternalReferenceNumber>
+</Insured>
+<Client>
+<Name>
+<Value>XXXXXXXXXXXXXXXXXXX</Value>
+<Control />
+</Name>
+<Code>
+<Value>XXXXXX</Value>
+<Control />
+</Code>
+<GSTDetails>
+<IsRegisteredForGST>
+<Value>N</Value>
+<Control />
+</IsRegisteredForGST>
+<ABN>
+<Control />
+</ABN>
+<InputTaxCredits>
+<Control />
+</InputTaxCredits>
+<TaxStatus>
+<Control />
+</TaxStatus>
+</GSTDetails>
+<Address>
+<Address1>
+<Value>XXXXXXXXXXXXXXXXX</Value>
+<Control />
+</Address1>
+<Address2>
+<Control />
+</Address2>
+<Postcode>
+<Value>XXXX</Value>
+<Control />
+</Postcode>
+<Suburb>
+<Value>XXXXXX</Value>
+<Control />
+</Suburb>
+<State>
+<Value>QLD</Value>
+<Control />
+</State>
+<Country>
+<Control />
+</Country>
+<DeliveryPointIdentifier>
+<Control />
+</DeliveryPointIdentifier>
+<IsManuallyAdded>
+<Control />
+</IsManuallyAdded>
+</Address>
+</Client>
+<Intermediary>
+<Account>
+<AccountNumber>
+<Value>XXXXXXXXXXX</Value>
+<Control />
+</AccountNumber>
+<PreviousAccountNumber>
+<Value>A1420000359</Value>
+<Control />
+</PreviousAccountNumber>
+<AccountName>
+<Value>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</Value>
+<Control />
+</AccountName>
+<ExternalId>
+<Value>NTHQLD</Value>
+<Control />
+</ExternalId>
+<Group>Default Agent Group</Group>
+<Source>3A</Source>
+<BranchId>42</BranchId>
+<BrokerSystem>Sunrise</BrokerSystem>
+<EdiType>Sunrise</EdiType>
+<DivisionCode>BA</DivisionCode>
+<NoticeTo>03</NoticeTo>
+<EmailAddress>XXXXXXXXXXXXXXXXXXXXXX</EmailAddress>
+<IntermediaryPolicyReference>
+<Control />
+</IntermediaryPolicyReference>
+<RatingAccountNumber>
+<Control />
+</RatingAccountNumber>
+<FieldsUsedToLoad />
+<Product ProductId="VSD">
+<ProcessingDays>
+<ForwardProcessing>60</ForwardProcessing>
+<BackwardProcessing>30</BackwardProcessing>
+<ClosingWithAuthority>9999</ClosingWithAuthority>
+<ClosingWithoutAuthority>90</ClosingWithoutAuthority>
+<TermDuration>
+<Minimum>90</Minimum>
+<Maximum>458</Maximum>
+<Default>365</Default>
+</TermDuration>
+</ProcessingDays>
+<Customisation>
+<AmexPayment>true</AmexPayment>
+<InstalmentBilling>true</InstalmentBilling>
+<BrokerFee>true</BrokerFee>
+</Customisation>
+</Product>
+<ContactPhoneNo>
+<Control />
+</ContactPhoneNo>
+<PreviousSource>3A</PreviousSource>
+<ExternalAccountCode>
+<Control />
+</ExternalAccountCode>
+<PersonalAdvice>
+<Control />
+</PersonalAdvice>
+<AccountRef>
+<Value>undefined</Value>
+<Control />
+</AccountRef>
+<InstalmentBillingEligible>
+<Value>false</Value>
+<Control />
+</InstalmentBillingEligible>
+<IBIntermediaryFeeEligible>
+<Value>true</Value>
+<Control />
+</IBIntermediaryFeeEligible>
+</Account>
+<BasicDetails>
+<Name>
+<Value>North Queensland Ins Brokers Pty Ltd</Value>
+<Control />
+</Name>
+<Address>
+<Address1>
+<Value>XXXXXXXXXXXXXXXXXXX</Value>
+<Control />
+</Address1>
+<Address2>
+<Control />
+</Address2>
+<Postcode>
+<Value>XXXX</Value>
+<Control />
+</Postcode>
+<Suburb>
+<Value>XXXXXX</Value>
+<Control />
+</Suburb>
+<State>
+<Value>QLD</Value>
+<Control />
+</State>
+<Country>
+<Control />
+</Country>
+<DeliveryPointIdentifier>
+<Control />
+</DeliveryPointIdentifier>
+<IsManuallyAdded>
+<Control />
+</IsManuallyAdded>
+</Address>
+<EmailAddress>
+<Control />
+</EmailAddress>
+</BasicDetails>
+<Transfer>
+<AcrossBranch>
+<Control />
+</AcrossBranch>
+<RollDebt>
+<Control />
+</RollDebt>
+<IntermediaryId>
+<Control />
+</IntermediaryId>
+<AccountName>
+<Control />
+</AccountName>
+<AccountNumber>
+<Control />
+</AccountNumber>
+<EffectiveDate>
+<Control />
+</EffectiveDate>
+<Source>
+<Control />
+</Source>
+<SchemeId>
+<Control />
+</SchemeId>
+<Address>
+<Address1>
+<Control />
+</Address1>
+<Address2>
+<Control />
+</Address2>
+<Postcode>
+<Control />
+</Postcode>
+<Suburb>
+<Control />
+</Suburb>
+<State>
+<Control />
+</State>
+<Country>
+<Control />
+</Country>
+<DeliveryPointIdentifier>
+<Control />
+</DeliveryPointIdentifier>
+<IsManuallyAdded>
+<Control />
+</IsManuallyAdded>
+</Address>
+</Transfer>
+</Intermediary>
+<User>
+<Userid>
+<Value>XXXX</Value>
+<Control />
+</Userid>
+<Level>
+<Value>2</Value>
+<Control />
+</Level>
+<AuditLevel>
+<Value>2</Value>
+<Control />
+</AuditLevel>
+<InternalUser>
+<Value>true</Value>
+<Control />
+</InternalUser>
+<SystemUser>false</SystemUser>
+<FireHazard>
+<Control />
+</FireHazard>
+<LiabilityHazard>
+<Control />
+</LiabilityHazard>
+<CommentsEntered>
+<Value>true</Value>
+<Control />
+</CommentsEntered>
+<Comments>
+<Control />
+</Comments>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>29/03/2018 10:05</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>29/03/2018 10:07</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>29/03/2018 10:07</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>29/03/2018 10:24</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>29/03/2018 10:30</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Comments>Referral comment</Comments>
+<Timestamp>29/03/2018 10:33</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>29/03/2018 10:34</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>29/03/2018 10:34</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/03/2018 15:10</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/03/2018 15:10</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/03/2018 15:11</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/03/2018 15:11</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/03/2018 15:11</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Comments>Referral comment</Comments>
+<Timestamp>29/03/2018 15:12</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/03/2018 15:12</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/03/2018 15:12</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:21</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:21</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:22</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:22</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:23</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:23</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:23</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:23</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:24</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>18/04/2018 12:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:53</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:53</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:54</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:57</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:57</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:57</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:57</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:58</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 11:58</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:02</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:02</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:03</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:03</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:03</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:04</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:04</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:05</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:05</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:08</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:08</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:08</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:09</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:09</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:09</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:09</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:10</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:10</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:10</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:11</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:11</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:11</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:12</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:12</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:12</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:12</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:12</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:15</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>19/04/2018 12:15</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>26/04/2018 13:49</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>26/04/2018 13:49</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>26/04/2018 13:49</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>26/04/2018 13:49</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>26/04/2018 13:49</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>26/04/2018 13:50</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>26/04/2018 13:51</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>26/04/2018 13:51</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>26/04/2018 13:53</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>26/04/2018 13:59</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Comments>Referral comment</Comments>
+<Timestamp>26/04/2018 14:05</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>26/04/2018 14:06</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>26/04/2018 14:06</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 08:27</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 08:28</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 08:28</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 08:28</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 08:28</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 08:28</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 08:28</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 08:28</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 08:28</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Comments>Referral comment</Comments>
+<Timestamp>01/05/2018 08:30</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 08:30</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 08:30</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:44</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:44</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:44</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:44</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:44</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:44</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:45</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:45</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:45</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:45</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:45</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:45</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:45</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:58</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:58</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:58</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:58</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:58</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:58</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Comments>Referral comment</Comments>
+<Timestamp>01/05/2018 08:59</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:59</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 08:59</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 09:01</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 09:01</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Comments>Referral comment</Comments>
+<Timestamp>01/05/2018 09:02</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 09:02</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2018 09:02</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 09:06</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 09:06</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 09:06</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 09:06</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 09:06</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 09:06</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 09:06</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 09:06</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 14:24</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 14:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 14:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 14:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 14:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 14:28</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXXXXXXXX</Userid>
+<Level>13</Level>
+<InternalUser>false</InternalUser>
+<Timestamp>01/05/2018 14:28</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>08/08/2018 08:26</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>08/08/2018 08:26</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>08/08/2018 08:27</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>08/08/2018 08:30</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>08/08/2018 08:31</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>08/08/2018 08:31</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Comments>Underwriter comment</Comments>
+<Timestamp>08/08/2018 08:32</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>08/08/2018 08:32</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>08/08/2018 08:32</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>08/08/2018 08:33</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>08/08/2018 08:33</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>21/08/2018 14:06</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>21/08/2018 14:06</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>21/08/2018 14:08</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>21/08/2018 14:08</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>21/08/2018 14:09</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>21/08/2018 14:09</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>17/09/2018 15:18</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>17/09/2018 15:18</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>17/09/2018 15:19</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>17/09/2018 15:19</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>17/09/2018 15:19</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>17/09/2018 15:19</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>17/09/2018 15:22</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>17/09/2018 15:22</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>17/09/2018 15:23</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>17/09/2018 15:42</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/09/2018 11:52</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/09/2018 11:52</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/09/2018 11:52</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/09/2018 11:52</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/09/2018 11:53</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/09/2018 11:59</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/09/2018 11:59</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/09/2018 11:59</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/09/2018 11:59</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/09/2018 11:59</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:15</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:15</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:16</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:16</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:16</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:16</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:16</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:16</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:16</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:16</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:16</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:16</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:17</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:17</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:17</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>18/04/2019 16:17</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>07/05/2019 15:18</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/06/2019 12:41</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/06/2019 12:41</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/06/2019 13:39</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/06/2019 13:39</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/06/2019 13:39</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/06/2019 13:39</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/06/2019 13:39</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/06/2019 13:41</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/06/2019 13:41</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/06/2019 13:42</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/06/2019 13:42</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/06/2019 14:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/06/2019 14:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/06/2019 14:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/06/2019 14:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/06/2019 14:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/06/2019 14:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/06/2019 14:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/06/2019 14:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/06/2019 14:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/06/2019 14:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/06/2019 14:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/06/2019 14:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>13/03/2020 15:20</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2020 10:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2020 10:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2020 10:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2020 10:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Comments>Underwriter comment</Comments>
+<Timestamp>28/03/2020 10:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2020 10:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2020 10:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2020 10:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2020 10:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2020 10:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2020 10:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2020 10:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2020 10:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>05/05/2020 15:09</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 12:22</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 13:17</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 13:17</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 13:18</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 13:23</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 13:23</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Comments>Referral comment</Comments>
+<Timestamp>29/09/2020 13:24</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 13:24</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 13:24</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 13:24</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>1</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 13:24</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 15:19</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 15:20</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 15:20</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 15:20</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 15:20</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>29/09/2020 15:20</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>19/03/2021 13:19</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:25</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:26</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:26</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:26</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>23/03/2021 15:26</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2021 08:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2021 08:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2021 08:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2021 08:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2021 08:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2021 08:48</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2021 08:48</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2021 08:48</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2021 08:48</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2021 08:48</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2021 15:11</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>05/05/2021 15:08</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:44</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:44</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:44</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:44</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:45</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:45</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:45</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:45</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:46</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:46</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:46</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:46</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:46</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:46</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>20/04/2022 12:47</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>05/05/2022 15:11</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>17/03/2023 13:09</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2023 10:04</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2023 10:04</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2023 10:04</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/05/2023 15:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/05/2023 15:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/05/2023 15:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/05/2023 15:38</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/05/2023 15:38</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/05/2023 15:38</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/05/2023 15:38</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/05/2023 15:38</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/05/2023 15:38</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/05/2023 15:38</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2023 12:21</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2023 12:21</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2023 12:21</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2023 12:21</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2023 12:21</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2023 12:21</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2023 12:21</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2023 12:21</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>04/05/2023 12:21</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>05/05/2023 13:13</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:18</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:18</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:19</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:19</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:19</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:19</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:19</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:20</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:20</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:27</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:27</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:27</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:27</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:27</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/05/2023 11:27</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:33</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:33</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:33</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:34</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:34</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:34</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:34</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:34</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:34</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Comments>Referral comment</Comments>
+<Timestamp>26/06/2023 14:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>26/06/2023 14:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>3b</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>15/03/2024 13:15</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/04/2024 09:46</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Comments>Referral comment</Comments>
+<Timestamp>03/04/2024 09:46</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/04/2024 09:46</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>03/04/2024 09:46</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>07/05/2024 15:04</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/06/2024 12:49</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/06/2024 12:49</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/06/2024 12:51</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/06/2024 12:51</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/06/2024 12:51</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/06/2024 12:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/06/2024 12:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/06/2024 12:57</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/06/2024 12:58</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>25/06/2024 12:58</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2025 13:29</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXXXXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>28/03/2025 16:10</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>30/04/2025 11:12</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>30/04/2025 11:12</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>30/04/2025 11:12</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2025 15:55</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2025 15:55</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Comments>Underwriter comment</Comments>
+<Timestamp>01/05/2025 15:55</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2025 15:55</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2025 15:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2025 15:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2025 15:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2025 15:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2025 15:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2025 15:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2025 15:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2025 15:56</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>13/04/2026 10:39</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>13/04/2026 10:39</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2026 18:36</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Comments>Underwriter comment</Comments>
+<Timestamp>01/05/2026 18:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2026 18:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2026 18:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2026 18:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2026 18:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2026 18:37</Timestamp>
+</AuditLogs>
+<AuditLogs>
+<Userid>XXXX</Userid>
+<Level>2</Level>
+<InternalUser>true</InternalUser>
+<Timestamp>01/05/2026 18:37</Timestamp>
+</AuditLogs>
+<ExternalUser />
+<ReferralCloseUserLevel>2</ReferralCloseUserLevel>
+</User>
+<Situations>
+<Situation situationCode="001" changed="true" extLocationId="00e928ee-d7f9-48c7-a748-98f0d6e3c294" maxExternalRiskId="7" rate="false">
+<Risks>
+<Risk riskClass="VSN" riskName="Commercial Motor" riskExternalId="f158efe3-ead2-45c3-a86b-eaef9c7924d9" changed="true" riskAttachmentDate="2018-05-08" riskNumber="001" policyRisk="false" rerate="false" rate="false">
+<RiskGeneral>
+<Premiums>
+<Premium premiumClass="VFF" premiumClassName="Commercial Motor" valid="true" active="true" flood="false" terrorism="false" terrorismTerminatedInRenewalRerate="false" terrorismPreExistingRenewalRerateTransaction="false" terminated="false" preExistingTransaction="false" preExistingTerm="true" preExistingRenewalRerateTransaction="true">
+<CoverPremium>
+<Transaction>
+<Base>
+<EndOfTermAmount>-396.12</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Base>
+<Net>
+<AnnualAmount>396.12</AnnualAmount>
+<MonthlyAmount>33.01</MonthlyAmount>
+<EndOfTermAmount>-396.12</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Net>
+<AALNet>
+<EndOfTermAmount>-414.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</AALNet>
+<GST>
+<AnnualAmount>39.60</AnnualAmount>
+<MonthlyAmount>3.30</MonthlyAmount>
+<EndOfTermAmount>-39.60</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</GST>
+<FireServicesLevy>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<EndOfTermAmount>0.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</FireServicesLevy>
+<StampDuty>
+<AnnualAmount>39.24</AnnualAmount>
+<MonthlyAmount>3.27</MonthlyAmount>
+<EndOfTermAmount>-39.24</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</StampDuty>
+<Gross>
+<AnnualAmount>474.96</AnnualAmount>
+<MonthlyAmount>39.58</MonthlyAmount>
+<EndOfTermAmount>-474.96</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Gross>
+<Commission>
+<AnnualAmount>55.44</AnnualAmount>
+<MonthlyAmount>4.62</MonthlyAmount>
+<EndOfTermAmount>-55.44</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Commission>
+<CommissionGST>
+<AnnualAmount>5.52</AnnualAmount>
+<MonthlyAmount>0.46</MonthlyAmount>
+<EndOfTermAmount>-5.52</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</CommissionGST>
+<InstallmentLoading>
+<YearlyLoading>0.00</YearlyLoading>
+<MonthlyLoading>0.00</MonthlyLoading>
+<EndOfTermLoading>0.00</EndOfTermLoading>
+</InstallmentLoading>
+<Actuarial>
+<AnnualAmount>396.18</AnnualAmount>
+<EndOfTermAmount>-396.18</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Actuarial>
+<Technical>
+<AnnualAmount>396.18</AnnualAmount>
+<EndOfTermAmount>-396.18</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Technical>
+<TerrorismCharge />
+<TermCalculatedPremium>396.12</TermCalculatedPremium>
+<TermSavingPremium>0.01</TermSavingPremium>
+<TotalAppliedAdjustment>-0.02</TotalAppliedAdjustment>
+</Transaction>
+<Terrorism>
+<Base>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Base>
+<Net>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Net>
+<AALNet>
+<ComparisonAmount>0.00</ComparisonAmount>
+</AALNet>
+<GST>
+<ComparisonAmount>0.00</ComparisonAmount>
+</GST>
+<FireServicesLevy>
+<ComparisonAmount>0.00</ComparisonAmount>
+</FireServicesLevy>
+<StampDuty>
+<ComparisonAmount>0.00</ComparisonAmount>
+</StampDuty>
+<Gross>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Gross>
+<Commission>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Commission>
+<CommissionGST>
+<ComparisonAmount>0.00</ComparisonAmount>
+</CommissionGST>
+<InstallmentLoading />
+<Actuarial>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Actuarial>
+<Technical>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Technical>
+<TerrorismCharge>
+<ComparisonAmount>0.00</ComparisonAmount>
+</TerrorismCharge>
+</Terrorism>
+<InstalmentCancelled />
+<AccountRefund />
+<PreviousTransactionFAP>926.67</PreviousTransactionFAP>
+<PreviousTransactionMonthlyPremium>77.22</PreviousTransactionMonthlyPremium>
+<PreviousTransactionInstallmentMonthlyLoading>0.00</PreviousTransactionInstallmentMonthlyLoading>
+<PreviousTransactionInstallmentYearlyLoading>0.00</PreviousTransactionInstallmentYearlyLoading>
+<RCapRate>1.00</RCapRate>
+<ECapRate>0.9998489</ECapRate>
+<ManualRatingRequired>
+<Behaviour />
+<Value>false</Value>
+<Control />
+</ManualRatingRequired>
+<PreviousTransTransactionPricingResult>
+<Base>
+<EndOfTermAmount>926.67</EndOfTermAmount>
+</Base>
+<Net>
+<MonthlyAmount>77.22</MonthlyAmount>
+<EndOfTermAmount>926.67</EndOfTermAmount>
+</Net>
+<GST>
+<MonthlyAmount>7.72</MonthlyAmount>
+<EndOfTermAmount>92.67</EndOfTermAmount>
+</GST>
+<FireServiceLevy>
+<MonthlyAmount>0.00</MonthlyAmount>
+<EndOfTermAmount>0.00</EndOfTermAmount>
+</FireServiceLevy>
+<StampDuty>
+<MonthlyAmount>7.64</MonthlyAmount>
+<EndOfTermAmount>91.74</EndOfTermAmount>
+</StampDuty>
+<Commission>
+<MonthlyAmount>10.81</MonthlyAmount>
+<EndOfTermAmount>129.73</EndOfTermAmount>
+</Commission>
+<CommissionGST>
+<MonthlyAmount>1.08</MonthlyAmount>
+<EndOfTermAmount>12.97</EndOfTermAmount>
+</CommissionGST>
+</PreviousTransTransactionPricingResult>
+<PreviousTransTerrorismPricingResult>
+<Base />
+<Net />
+<GST />
+<FireServiceLevy />
+<StampDuty />
+<Commission />
+<CommissionGST />
+</PreviousTransTerrorismPricingResult>
+<PriorTermFAP>
+<Net>368.56</Net>
+<GST>36.86</GST>
+<FireServiceLevy>0.00</FireServiceLevy>
+<StampDuty>36.49</StampDuty>
+<Commission>51.60</Commission>
+<CommissionGST>5.16</CommissionGST>
+</PriorTermFAP>
+</CoverPremium>
+<PremiumAdjustments>
+<UnderwriterAdjustment>
+<Behaviour />
+<Control />
+</UnderwriterAdjustment>
+<IntermediaryDiscount>
+<Behaviour />
+<Control />
+</IntermediaryDiscount>
+<Commission>
+<Behaviour />
+<Value>14.00</Value>
+<Control />
+</Commission>
+<PriorTermCommissionPercentage>14.00</PriorTermCommissionPercentage>
+<TransactionPremium>
+<Behaviour />
+<Control />
+</TransactionPremium>
+<FSL>
+<Behaviour />
+<Control />
+</FSL>
+<StampDuty>
+<Behaviour />
+<Control />
+</StampDuty>
+<GST>
+<Behaviour />
+<Control />
+</GST>
+</PremiumAdjustments>
+<Rates>
+<InitialCommissionPercentage>14.00</InitialCommissionPercentage>
+<DiscretionaryDiscountPercentage>0.00</DiscretionaryDiscountPercentage>
+</Rates>
+</Premium>
+</Premiums>
+<TotalPremium>
+<Base>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-396.12</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Base>
+<Net>
+<AnnualAmount>396.12</AnnualAmount>
+<MonthlyAmount>33.01</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-396.12</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Net>
+<AALNet>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-414.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</AALNet>
+<GST>
+<AnnualAmount>39.60</AnnualAmount>
+<MonthlyAmount>3.30</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-39.60</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</GST>
+<FireServicesLevy>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>0.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</FireServicesLevy>
+<StampDuty>
+<AnnualAmount>39.24</AnnualAmount>
+<MonthlyAmount>3.27</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-39.24</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</StampDuty>
+<Gross>
+<AnnualAmount>474.96</AnnualAmount>
+<MonthlyAmount>39.58</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-474.96</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Gross>
+<Commission>
+<AnnualAmount>55.44</AnnualAmount>
+<MonthlyAmount>4.62</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-55.44</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Commission>
+<CommissionGST>
+<AnnualAmount>5.52</AnnualAmount>
+<MonthlyAmount>0.46</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-5.52</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</CommissionGST>
+<InstallmentLoading>
+<YearlyLoading>0.00</YearlyLoading>
+<MonthlyLoading>0.00</MonthlyLoading>
+<FortnightlyLoading>0.00</FortnightlyLoading>
+<EndOfTermLoading>0.00</EndOfTermLoading>
+<ComparisonLoading>0.00</ComparisonLoading>
+<InstallmentGapLoading>0.00</InstallmentGapLoading>
+</InstallmentLoading>
+<Actuarial>
+<AnnualAmount>396.18</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-396.18</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Actuarial>
+<Technical>
+<AnnualAmount>396.18</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-396.18</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Technical>
+<TerrorismCharge>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>0.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</TerrorismCharge>
+<TermCalculatedPremium>396.12</TermCalculatedPremium>
+<TermSavingPremium>0.01</TermSavingPremium>
+</TotalPremium>
+<ManualRatingRequired>
+<Value>false</Value>
+<Control />
+</ManualRatingRequired>
+<HazardCode>
+<Control />
+</HazardCode>
+<Removable>
+<Control />
+</Removable>
+<IsPostCodeEmbargoed>
+<Value>false</Value>
+<Control />
+</IsPostCodeEmbargoed>
+<EmbargoReferralApprovedDate>2024-05-07</EmbargoReferralApprovedDate>
+<State>
+<PreExistingTerm>
+<Value>true</Value>
+<Control />
+</PreExistingTerm>
+<PreExistingTransaction>
+<Value>false</Value>
+<Control />
+</PreExistingTransaction>
+<TerminationDate>
+<Control />
+</TerminationDate>
+<PreExistingRenewalRerateTransaction>true</PreExistingRenewalRerateTransaction>
+<NonPDSRisk>
+<Control />
+</NonPDSRisk>
+<EndorsementChanged>
+<Control />
+</EndorsementChanged>
+</State>
+<ErrorStatus>
+<HasInvalid>
+<Value>false</Value>
+<Control />
+</HasInvalid>
+<HasDecline>
+<Value>false</Value>
+<Control />
+</HasDecline>
+<HasReferral>
+<Value>false</Value>
+<Control />
+</HasReferral>
+</ErrorStatus>
+<QuestionAnswers />
+<PricingID>ed3fb2f5-bfb0-4929-9b6a-e609a380b2c2</PricingID>
+<ClaimsCountForPricing>
+<ClaimsCountCurrentYear>0</ClaimsCountCurrentYear>
+<ClaimsCountPreviousYear>0</ClaimsCountPreviousYear>
+<ClaimsCountPrevious2Years>0</ClaimsCountPrevious2Years>
+<ClaimsCountPrevious3Years>0</ClaimsCountPrevious3Years>
+</ClaimsCountForPricing>
+<PriorTermClaimsCountForPricing>
+<ClaimsCountCurrentYear>0</ClaimsCountCurrentYear>
+<ClaimsCountPreviousYear>0</ClaimsCountPreviousYear>
+<ClaimsCountPrevious2Years>0</ClaimsCountPrevious2Years>
+<ClaimsCountPrevious3Years>0</ClaimsCountPrevious3Years>
+</PriorTermClaimsCountForPricing>
+<TotalLossFlag>
+<Control />
+</TotalLossFlag>
+<RiskTotalAppliedAdjustment>-0.02</RiskTotalAppliedAdjustment>
+<TargetDiscount>
+<Control />
+</TargetDiscount>
+</RiskGeneral>
+<Motor>
+<Cover>
+<CoverType>
+<Value>Third Party Property Damage</Value>
+<Control />
+</CoverType>
+<ProductCode>
+<Comprehensive>
+<Value>VSD</Value>
+<Control />
+</Comprehensive>
+<ThirdParty>
+<Value>VSD</Value>
+<Control />
+</ThirdParty>
+</ProductCode>
+<RiskClass>
+<Comprehensive>
+<Value>VSN</Value>
+<Control />
+</Comprehensive>
+<ThirdParty>
+<Value>VSN</Value>
+<Control />
+</ThirdParty>
+</RiskClass>
+<PolicyOptions>
+<HireCost>
+<Control />
+</HireCost>
+<SituationNumber>
+<Value>001</Value>
+<Control />
+</SituationNumber>
+</PolicyOptions>
+<ProductType>
+<Value>VSD</Value>
+<Control />
+</ProductType>
+<LevelOfCover>
+<Value>02</Value>
+<Control />
+</LevelOfCover>
+<PolicyOptionsList />
+<LimitOfLiability>
+<Control />
+</LimitOfLiability>
+<HazardousDangerousGoodsLimitOfLiability>
+<Control />
+</HazardousDangerousGoodsLimitOfLiability>
+<LimitOfIndemnity>
+<Value>30000000</Value>
+<Control />
+</LimitOfIndemnity>
+</Cover>
+<Vehicle>
+<BasicDetails>
+<Year>
+<Value>2007</Value>
+<Control />
+</Year>
+<Make>
+<Value>MAZDA</Value>
+<Control />
+</Make>
+<Model>
+<Value>BT-50</Value>
+<Control />
+</Model>
+<Type>
+<Value>B2500 DX, C/CHAS, DTFI, 2499, 2.5L, 5M, DT4</Value>
+<Control />
+</Type>
+<RegistrationNumber>
+<Value>223VGV</Value>
+<Control />
+</RegistrationNumber>
+<VINNumber>
+<Control />
+</VINNumber>
+<NVIC>
+<Value>GC007A</Value>
+<Control />
+</NVIC>
+<Description>
+<Control />
+</Description>
+<Category>
+<Value>O</Value>
+<Control />
+</Category>
+<MarketValue>
+<Value>7800</Value>
+<Control />
+</MarketValue>
+<BasicSumInsured>
+<Value>0</Value>
+<Control>
+<Referal>
+<Message>Accessories sum insured</Message>
+<Code>A8</Code>
+<ApprovedValue>8300</ApprovedValue>
+<ApprovalType>EQ</ApprovalType>
+<Suppressible>false</Suppressible>
+<Active>false</Active>
+</Referal>
+</Control>
+</BasicSumInsured>
+<TotalSumInsured>
+<Value>0</Value>
+<Control />
+</TotalSumInsured>
+<VehiclePoints>
+<Control />
+</VehiclePoints>
+<UnregisteredMiningOrConstructionVehicle>
+<Control />
+</UnregisteredMiningOrConstructionVehicle>
+<VehicleGroupCode>MC</VehicleGroupCode>
+<IsRegisteredFlag>
+<Control />
+</IsRegisteredFlag>
+<IsUsedForFarmContractingWork>
+<Control />
+</IsUsedForFarmContractingWork>
+</BasicDetails>
+<Accessories>
+<ManufacturerAccessories>
+<HasManufacturerAccessories>
+<Control />
+</HasManufacturerAccessories>
+</ManufacturerAccessories>
+<GenericAccessories>
+<HasGenericAccessories>
+<Value>false</Value>
+<Control />
+</HasGenericAccessories>
+</GenericAccessories>
+<StandardAccessories />
+<TotalAccessoriesSumInsured>
+<Value>0</Value>
+<Control>
+<Referal>
+<Message>Accessories sum insured</Message>
+<Code>A8</Code>
+<ApprovedValue>0</ApprovedValue>
+<ApprovalType>EQ</ApprovalType>
+<Suppressible>false</Suppressible>
+<Active>false</Active>
+</Referal>
+</Control>
+</TotalAccessoriesSumInsured>
+</Accessories>
+<Modifications>
+<HasVehicleBeenModified>
+<Value>false</Value>
+<Control />
+</HasVehicleBeenModified>
+</Modifications>
+<SecurityDevice>
+<Code>
+<Control />
+</Code>
+<Alarm>
+<Control />
+</Alarm>
+<Immobiliser>
+<Control />
+</Immobiliser>
+<AlarmImmobiliser>
+<Control />
+</AlarmImmobiliser>
+<AllDayTrackingDevice>
+<Control />
+</AllDayTrackingDevice>
+<Microdotting>
+<Control />
+</Microdotting>
+<WheelLockNuts>
+<Control />
+</WheelLockNuts>
+</SecurityDevice>
+<VehicleCondition>
+<IsRoadWorthy>
+<Value>false</Value>
+<Control />
+</IsRoadWorthy>
+<HasUnrepairedBodyDamage>
+<Value>false</Value>
+<Control />
+</HasUnrepairedBodyDamage>
+</VehicleCondition>
+<Garaging>
+<Type>
+<Control />
+</Type>
+<DeclineFlag>
+<Control />
+</DeclineFlag>
+<Postcode>
+<Value>4817</Value>
+<Control />
+</Postcode>
+<Suburb>
+<Value>KIRWAN</Value>
+<Control />
+</Suburb>
+<State>
+<Value>QLD</Value>
+<Control />
+</State>
+<PostcodeFlag>
+<Value>N</Value>
+<Control />
+</PostcodeFlag>
+<PreviousPostcode>4817</PreviousPostcode>
+<PreviousState>QLD</PreviousState>
+<PreviousSuburb>KIRWAN</PreviousSuburb>
+</Garaging>
+<PerformanceVehicle>
+<IsPerformanceVehicle>
+<Value>false</Value>
+<Control />
+</IsPerformanceVehicle>
+</PerformanceVehicle>
+<Usage>
+<Control />
+</Usage>
+</Vehicle>
+<Drivers>
+<HasDriversUnder25>
+<Value>false</Value>
+<Control />
+</HasDriversUnder25>
+<DobOfYoungestDriver>
+<Control />
+</DobOfYoungestDriver>
+</Drivers>
+<Excess>
+<Value>850</Value>
+<Control />
+</Excess>
+<CommercialMotorFactors>
+<CompAgreeValueRate>0.15</CompAgreeValueRate>
+<TPFTMaxSI>5000</TPFTMaxSI>
+<AccesSILimit>0.30</AccesSILimit>
+<PerfVehAccessSILimit>5000</PerfVehAccessSILimit>
+<CoverFactor>0.25</CoverFactor>
+<NoOfVehLoading>1</NoOfVehLoading>
+<NumberOfVehicles>2</NumberOfVehicles>
+<IsGlass>true</IsGlass>
+<IsSuburbExempted>false</IsSuburbExempted>
+</CommercialMotorFactors>
+<vehicleId>
+<Value>1</Value>
+<Control />
+</vehicleId>
+<IsNewInterestedPartyForComMotor>true</IsNewInterestedPartyForComMotor>
+<AgeExcess>
+<AgeExcessUnder21>
+<Value>850</Value>
+<Control />
+</AgeExcessUnder21>
+<AgeExcess21To25>
+<Value>500</Value>
+<Control />
+</AgeExcess21To25>
+<AgeExcessAbove25>
+<Value>500</Value>
+<Control />
+</AgeExcessAbove25>
+<FarmGlassAgeExcessUpTo25>
+<Control />
+</FarmGlassAgeExcessUpTo25>
+<FarmGlassAgeExcessUndeclared>
+<Control />
+</FarmGlassAgeExcessUndeclared>
+<FarmGlassAgeExcessInexperienced>
+<Control />
+</FarmGlassAgeExcessInexperienced>
+<FarmNonGlassAgeExcessUpTo25>
+<Control />
+</FarmNonGlassAgeExcessUpTo25>
+<FarmNonGlassAgeExcessTipping>
+<Control />
+</FarmNonGlassAgeExcessTipping>
+</AgeExcess>
+<DisabilityCover>
+<Control />
+</DisabilityCover>
+<DownTimeCover>
+<Control />
+</DownTimeCover>
+<DownTimeCoverType>
+<DailyIndemnityRate>
+<Control />
+</DailyIndemnityRate>
+<DefermentPeriodDays>
+<Control />
+</DefermentPeriodDays>
+<IndemnityPeriodDays>
+<Control />
+</IndemnityPeriodDays>
+<LimitOfIndemnity>
+<Control />
+</LimitOfIndemnity>
+</DownTimeCoverType>
+<VehicleUsedCategory>
+<HasVehicleUsedCategory>
+<Control />
+</HasVehicleUsedCategory>
+</VehicleUsedCategory>
+<VehicleAttachmentCategory>
+<HasVehicleAttachmentCategory>
+<Control />
+</HasVehicleAttachmentCategory>
+</VehicleAttachmentCategory>
+</Motor>
+</Risk>
+<Risk riskClass="VSN" riskName="Commercial Motor" riskExternalId="2f95a5eb-ec8b-4684-a9e3-6b905fe350ee" changed="true" riskAttachmentDate="2023-05-24" riskNumber="008" policyRisk="false" rerate="false" rate="false">
+<RiskGeneral>
+<Premiums>
+<Premium premiumClass="VFF" premiumClassName="Commercial Motor" valid="true" active="true" flood="false" terrorism="false" terrorismTerminatedInRenewalRerate="false" terrorismPreExistingRenewalRerateTransaction="false" terminated="false" preExistingTransaction="false" preExistingTerm="true" preExistingRenewalRerateTransaction="true">
+<CoverPremium>
+<Transaction>
+<Base>
+<EndOfTermAmount>-2621.88</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Base>
+<Net>
+<AnnualAmount>2621.88</AnnualAmount>
+<MonthlyAmount>218.49</MonthlyAmount>
+<EndOfTermAmount>-2621.88</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Net>
+<AALNet>
+<EndOfTermAmount>-2739.84</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</AALNet>
+<GST>
+<AnnualAmount>262.20</AnnualAmount>
+<MonthlyAmount>21.85</MonthlyAmount>
+<EndOfTermAmount>-262.20</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</GST>
+<FireServicesLevy>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<EndOfTermAmount>0.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</FireServicesLevy>
+<StampDuty>
+<AnnualAmount>259.56</AnnualAmount>
+<MonthlyAmount>21.63</MonthlyAmount>
+<EndOfTermAmount>-259.56</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</StampDuty>
+<Gross>
+<AnnualAmount>3143.64</AnnualAmount>
+<MonthlyAmount>261.97</MonthlyAmount>
+<EndOfTermAmount>-3143.64</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Gross>
+<Commission>
+<AnnualAmount>367.08</AnnualAmount>
+<MonthlyAmount>30.59</MonthlyAmount>
+<EndOfTermAmount>-367.08</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Commission>
+<CommissionGST>
+<AnnualAmount>36.72</AnnualAmount>
+<MonthlyAmount>3.06</MonthlyAmount>
+<EndOfTermAmount>-36.72</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</CommissionGST>
+<InstallmentLoading>
+<YearlyLoading>0.00</YearlyLoading>
+<MonthlyLoading>0.00</MonthlyLoading>
+<EndOfTermLoading>0.00</EndOfTermLoading>
+</InstallmentLoading>
+<Actuarial>
+<AnnualAmount>2388.35</AnnualAmount>
+<EndOfTermAmount>-2388.35</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Actuarial>
+<Technical>
+<AnnualAmount>2388.35</AnnualAmount>
+<EndOfTermAmount>-2388.35</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Technical>
+<TerrorismCharge />
+<TermCalculatedPremium>2621.88</TermCalculatedPremium>
+<TermSavingPremium>0.00</TermSavingPremium>
+<TotalAppliedAdjustment>9.78</TotalAppliedAdjustment>
+</Transaction>
+<Terrorism>
+<Base>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Base>
+<Net>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Net>
+<AALNet>
+<ComparisonAmount>0.00</ComparisonAmount>
+</AALNet>
+<GST>
+<ComparisonAmount>0.00</ComparisonAmount>
+</GST>
+<FireServicesLevy>
+<ComparisonAmount>0.00</ComparisonAmount>
+</FireServicesLevy>
+<StampDuty>
+<ComparisonAmount>0.00</ComparisonAmount>
+</StampDuty>
+<Gross>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Gross>
+<Commission>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Commission>
+<CommissionGST>
+<ComparisonAmount>0.00</ComparisonAmount>
+</CommissionGST>
+<InstallmentLoading />
+<Actuarial>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Actuarial>
+<Technical>
+<ComparisonAmount>0.00</ComparisonAmount>
+</Technical>
+<TerrorismCharge>
+<ComparisonAmount>0.00</ComparisonAmount>
+</TerrorismCharge>
+</Terrorism>
+<InstalmentCancelled />
+<AccountRefund />
+<PreviousTransactionFAP>2913.22</PreviousTransactionFAP>
+<PreviousTransactionMonthlyPremium>242.77</PreviousTransactionMonthlyPremium>
+<PreviousTransactionInstallmentMonthlyLoading>0.00</PreviousTransactionInstallmentMonthlyLoading>
+<PreviousTransactionInstallmentYearlyLoading>0.00</PreviousTransactionInstallmentYearlyLoading>
+<RCapRate>1.09778561</RCapRate>
+<ECapRate>1.09777807</ECapRate>
+<ManualRatingRequired>
+<Behaviour />
+<Value>false</Value>
+<Control />
+</ManualRatingRequired>
+<PreviousTransTransactionPricingResult>
+<Base>
+<EndOfTermAmount>2913.22</EndOfTermAmount>
+</Base>
+<Net>
+<MonthlyAmount>242.77</MonthlyAmount>
+<EndOfTermAmount>2913.22</EndOfTermAmount>
+</Net>
+<GST>
+<MonthlyAmount>24.28</MonthlyAmount>
+<EndOfTermAmount>291.32</EndOfTermAmount>
+</GST>
+<FireServiceLevy>
+<MonthlyAmount>0.00</MonthlyAmount>
+<EndOfTermAmount>0.00</EndOfTermAmount>
+</FireServiceLevy>
+<StampDuty>
+<MonthlyAmount>24.03</MonthlyAmount>
+<EndOfTermAmount>288.41</EndOfTermAmount>
+</StampDuty>
+<Commission>
+<MonthlyAmount>33.99</MonthlyAmount>
+<EndOfTermAmount>407.85</EndOfTermAmount>
+</Commission>
+<CommissionGST>
+<MonthlyAmount>3.40</MonthlyAmount>
+<EndOfTermAmount>40.79</EndOfTermAmount>
+</CommissionGST>
+</PreviousTransTransactionPricingResult>
+<PreviousTransTerrorismPricingResult>
+<Base />
+<Net />
+<GST />
+<FireServiceLevy />
+<StampDuty />
+<Commission />
+<CommissionGST />
+</PreviousTransTerrorismPricingResult>
+<PriorTermFAP>
+<Net>2913.22</Net>
+<GST>291.32</GST>
+<FireServiceLevy>0.00</FireServiceLevy>
+<StampDuty>288.41</StampDuty>
+<Commission>407.85</Commission>
+<CommissionGST>40.79</CommissionGST>
+</PriorTermFAP>
+</CoverPremium>
+<PremiumAdjustments>
+<UnderwriterAdjustment>
+<Behaviour />
+<Control />
+</UnderwriterAdjustment>
+<IntermediaryDiscount>
+<Behaviour />
+<Control />
+</IntermediaryDiscount>
+<Commission>
+<Behaviour />
+<Value>14.00</Value>
+<Control />
+</Commission>
+<PriorTermCommissionPercentage>14.00</PriorTermCommissionPercentage>
+<TransactionPremium>
+<Behaviour />
+<Control />
+</TransactionPremium>
+<FSL>
+<Behaviour />
+<Control />
+</FSL>
+<StampDuty>
+<Behaviour />
+<Control />
+</StampDuty>
+<GST>
+<Behaviour />
+<Control />
+</GST>
+</PremiumAdjustments>
+<Rates>
+<InitialCommissionPercentage>14.00</InitialCommissionPercentage>
+<DiscretionaryDiscountPercentage>0.00</DiscretionaryDiscountPercentage>
+</Rates>
+</Premium>
+</Premiums>
+<TotalPremium>
+<Base>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-2621.88</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Base>
+<Net>
+<AnnualAmount>2621.88</AnnualAmount>
+<MonthlyAmount>218.49</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-2621.88</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Net>
+<AALNet>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-2739.84</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</AALNet>
+<GST>
+<AnnualAmount>262.20</AnnualAmount>
+<MonthlyAmount>21.85</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-262.20</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</GST>
+<FireServicesLevy>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>0.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</FireServicesLevy>
+<StampDuty>
+<AnnualAmount>259.56</AnnualAmount>
+<MonthlyAmount>21.63</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-259.56</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</StampDuty>
+<Gross>
+<AnnualAmount>3143.64</AnnualAmount>
+<MonthlyAmount>261.97</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-3143.64</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Gross>
+<Commission>
+<AnnualAmount>367.08</AnnualAmount>
+<MonthlyAmount>30.59</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-367.08</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Commission>
+<CommissionGST>
+<AnnualAmount>36.72</AnnualAmount>
+<MonthlyAmount>3.06</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-36.72</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</CommissionGST>
+<InstallmentLoading>
+<YearlyLoading>0.00</YearlyLoading>
+<MonthlyLoading>0.00</MonthlyLoading>
+<FortnightlyLoading>0.00</FortnightlyLoading>
+<EndOfTermLoading>0.00</EndOfTermLoading>
+<ComparisonLoading>0.00</ComparisonLoading>
+<InstallmentGapLoading>0.00</InstallmentGapLoading>
+</InstallmentLoading>
+<Actuarial>
+<AnnualAmount>2388.35</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-2388.35</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Actuarial>
+<Technical>
+<AnnualAmount>2388.35</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-2388.35</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Technical>
+<TerrorismCharge>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>0.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</TerrorismCharge>
+<TermCalculatedPremium>2621.88</TermCalculatedPremium>
+<TermSavingPremium>0.00</TermSavingPremium>
+</TotalPremium>
+<ManualRatingRequired>
+<Value>false</Value>
+<Control />
+</ManualRatingRequired>
+<HazardCode>
+<Control />
+</HazardCode>
+<Removable>
+<Control />
+</Removable>
+<IsPostCodeEmbargoed>
+<Value>false</Value>
+<Control />
+</IsPostCodeEmbargoed>
+<EmbargoReferralApprovedDate>2024-05-07</EmbargoReferralApprovedDate>
+<State>
+<PreExistingTerm>
+<Value>true</Value>
+<Control />
+</PreExistingTerm>
+<PreExistingTransaction>
+<Value>false</Value>
+<Control />
+</PreExistingTransaction>
+<TerminationDate>
+<Control />
+</TerminationDate>
+<PreExistingRenewalRerateTransaction>true</PreExistingRenewalRerateTransaction>
+<NonPDSRisk>
+<Control />
+</NonPDSRisk>
+<EndorsementChanged>
+<Control />
+</EndorsementChanged>
+</State>
+<ErrorStatus>
+<HasInvalid>
+<Value>false</Value>
+<Control />
+</HasInvalid>
+<HasDecline>
+<Value>false</Value>
+<Control />
+</HasDecline>
+<HasReferral>
+<Value>false</Value>
+<Control />
+</HasReferral>
+</ErrorStatus>
+<QuestionAnswers />
+<PricingID>ed3fb2f5-bfb0-4929-9b6a-e609a380b2c2</PricingID>
+<ClaimsCountForPricing>
+<ClaimsCountCurrentYear>0</ClaimsCountCurrentYear>
+<ClaimsCountPreviousYear>0</ClaimsCountPreviousYear>
+<ClaimsCountPrevious2Years>0</ClaimsCountPrevious2Years>
+<ClaimsCountPrevious3Years>0</ClaimsCountPrevious3Years>
+</ClaimsCountForPricing>
+<PriorTermClaimsCountForPricing>
+<ClaimsCountCurrentYear>0</ClaimsCountCurrentYear>
+<ClaimsCountPreviousYear>0</ClaimsCountPreviousYear>
+<ClaimsCountPrevious2Years>0</ClaimsCountPrevious2Years>
+<ClaimsCountPrevious3Years>0</ClaimsCountPrevious3Years>
+</PriorTermClaimsCountForPricing>
+<TotalLossFlag>
+<Control />
+</TotalLossFlag>
+<RiskTotalAppliedAdjustment>9.78</RiskTotalAppliedAdjustment>
+<TargetDiscount>
+<Control />
+</TargetDiscount>
+</RiskGeneral>
+<Motor>
+<Cover>
+<CoverType>
+<Value>Comprehensive Market Value</Value>
+<Control />
+</CoverType>
+<ProductCode>
+<Comprehensive>
+<Value>VSD</Value>
+<Control />
+</Comprehensive>
+<ThirdParty>
+<Value>VSD</Value>
+<Control />
+</ThirdParty>
+</ProductCode>
+<RiskClass>
+<Comprehensive>
+<Value>VSN</Value>
+<Control />
+</Comprehensive>
+<ThirdParty>
+<Value>VSN</Value>
+<Control />
+</ThirdParty>
+</RiskClass>
+<PolicyOptions>
+<HireCost>
+<Value>false</Value>
+<Control />
+</HireCost>
+<SituationNumber>
+<Value>001</Value>
+<Control />
+</SituationNumber>
+</PolicyOptions>
+<ProductType>
+<Value>VSD</Value>
+<Control />
+</ProductType>
+<LevelOfCover>
+<Value>02</Value>
+<Control />
+</LevelOfCover>
+<PolicyOptionsList />
+<LimitOfLiability>
+<Control />
+</LimitOfLiability>
+<HazardousDangerousGoodsLimitOfLiability>
+<Control />
+</HazardousDangerousGoodsLimitOfLiability>
+<LimitOfIndemnity>
+<Value>30000000</Value>
+<Control />
+</LimitOfIndemnity>
+</Cover>
+<Vehicle>
+<BasicDetails>
+<Year>
+<Value>2023</Value>
+<Control />
+</Year>
+<Make>
+<Value>FORD</Value>
+<Control />
+</Make>
+<Model>
+<Value>RANGER</Value>
+<Control />
+</Model>
+<Type>
+<Value>SPORT 3.0 (4X4), PY MY22, DOUBLE CAB P/UP, TCDI, 2993, 3.0L, 10A, DTV6</Value>
+<Control />
+</Type>
+<RegistrationNumber>
+<Value>TBA000</Value>
+<Control />
+</RegistrationNumber>
+<VINNumber>
+<Value>MPBCMFF70PX484518</Value>
+<Control />
+</VINNumber>
+<NVIC>
+<Value>0BR123</Value>
+<Control />
+</NVIC>
+<Description>
+<Control />
+</Description>
+<Category>
+<Value>O</Value>
+<Control />
+</Category>
+<MarketValue>
+<Value>58500</Value>
+<Control />
+</MarketValue>
+<BasicSumInsured>
+<Value>58500</Value>
+<Control />
+</BasicSumInsured>
+<TotalSumInsured>
+<Value>58500</Value>
+<Control />
+</TotalSumInsured>
+<VehiclePoints>
+<Value>33</Value>
+<Control />
+</VehiclePoints>
+<UnregisteredMiningOrConstructionVehicle>
+<Control />
+</UnregisteredMiningOrConstructionVehicle>
+<VehicleGroupCode>L4</VehicleGroupCode>
+<IsRegisteredFlag>
+<Control />
+</IsRegisteredFlag>
+<IsUsedForFarmContractingWork>
+<Control />
+</IsUsedForFarmContractingWork>
+</BasicDetails>
+<Accessories>
+<ManufacturerAccessories>
+<HasManufacturerAccessories>
+<Control />
+</HasManufacturerAccessories>
+</ManufacturerAccessories>
+<GenericAccessories>
+<HasGenericAccessories>
+<Value>false</Value>
+<Control />
+</HasGenericAccessories>
+</GenericAccessories>
+<StandardAccessories />
+<TotalAccessoriesSumInsured>
+<Value>0</Value>
+<Control />
+</TotalAccessoriesSumInsured>
+</Accessories>
+<Modifications>
+<HasVehicleBeenModified>
+<Value>false</Value>
+<Control />
+</HasVehicleBeenModified>
+</Modifications>
+<SecurityDevice>
+<Code>
+<Control />
+</Code>
+<Alarm>
+<Value>false</Value>
+<Control />
+</Alarm>
+<Immobiliser>
+<Value>false</Value>
+<Control />
+</Immobiliser>
+<AlarmImmobiliser>
+<Control />
+</AlarmImmobiliser>
+<AllDayTrackingDevice>
+<Value>false</Value>
+<Control />
+</AllDayTrackingDevice>
+<Microdotting>
+<Value>false</Value>
+<Control />
+</Microdotting>
+<WheelLockNuts>
+<Value>false</Value>
+<Control />
+</WheelLockNuts>
+</SecurityDevice>
+<VehicleCondition>
+<IsRoadWorthy>
+<Value>false</Value>
+<Control />
+</IsRoadWorthy>
+<HasUnrepairedBodyDamage>
+<Value>false</Value>
+<Control />
+</HasUnrepairedBodyDamage>
+</VehicleCondition>
+<Garaging>
+<Type>
+<Control />
+</Type>
+<DeclineFlag>
+<Control />
+</DeclineFlag>
+<Postcode>
+<Value>4817</Value>
+<Control />
+</Postcode>
+<Suburb>
+<Value>KIRWAN</Value>
+<Control />
+</Suburb>
+<State>
+<Value>QLD</Value>
+<Control />
+</State>
+<PostcodeFlag>
+<Value>N</Value>
+<Control />
+</PostcodeFlag>
+<PreviousPostcode>4817</PreviousPostcode>
+<PreviousState>QLD</PreviousState>
+<PreviousSuburb>KIRWAN</PreviousSuburb>
+</Garaging>
+<PerformanceVehicle>
+<IsPerformanceVehicle>
+<Value>false</Value>
+<Control />
+</IsPerformanceVehicle>
+</PerformanceVehicle>
+<Usage>
+<Control />
+</Usage>
+</Vehicle>
+<Drivers>
+<HasDriversUnder25>
+<Value>false</Value>
+<Control />
+</HasDriversUnder25>
+<DobOfYoungestDriver>
+<Control />
+</DobOfYoungestDriver>
+</Drivers>
+<Excess>
+<Value>850</Value>
+<Control />
+</Excess>
+<CommercialMotorFactors>
+<CompAgreeValueRate>0.15</CompAgreeValueRate>
+<TPFTMaxSI>5000</TPFTMaxSI>
+<AccesSILimit>0.30</AccesSILimit>
+<PerfVehAccessSILimit>5000</PerfVehAccessSILimit>
+<CoverFactor>0.4</CoverFactor>
+<NoOfVehLoading>1</NoOfVehLoading>
+<NumberOfVehicles>2</NumberOfVehicles>
+<IsGlass>true</IsGlass>
+<IsSuburbExempted>false</IsSuburbExempted>
+</CommercialMotorFactors>
+<vehicleId>
+<Value>8</Value>
+<Control />
+</vehicleId>
+<IsNewInterestedPartyForComMotor>true</IsNewInterestedPartyForComMotor>
+<AgeExcess>
+<AgeExcessUnder21>
+<Value>850</Value>
+<Control />
+</AgeExcessUnder21>
+<AgeExcess21To25>
+<Value>500</Value>
+<Control />
+</AgeExcess21To25>
+<AgeExcessAbove25>
+<Value>500</Value>
+<Control />
+</AgeExcessAbove25>
+<FarmGlassAgeExcessUpTo25>
+<Control />
+</FarmGlassAgeExcessUpTo25>
+<FarmGlassAgeExcessUndeclared>
+<Control />
+</FarmGlassAgeExcessUndeclared>
+<FarmGlassAgeExcessInexperienced>
+<Control />
+</FarmGlassAgeExcessInexperienced>
+<FarmNonGlassAgeExcessUpTo25>
+<Control />
+</FarmNonGlassAgeExcessUpTo25>
+<FarmNonGlassAgeExcessTipping>
+<Control />
+</FarmNonGlassAgeExcessTipping>
+</AgeExcess>
+<DisabilityCover>
+<Control />
+</DisabilityCover>
+<DownTimeCover>
+<Control />
+</DownTimeCover>
+<DownTimeCoverType>
+<DailyIndemnityRate>
+<Control />
+</DailyIndemnityRate>
+<DefermentPeriodDays>
+<Control />
+</DefermentPeriodDays>
+<IndemnityPeriodDays>
+<Control />
+</IndemnityPeriodDays>
+<LimitOfIndemnity>
+<Control />
+</LimitOfIndemnity>
+</DownTimeCoverType>
+<VehicleUsedCategory>
+<HasVehicleUsedCategory>
+<Control />
+</HasVehicleUsedCategory>
+</VehicleUsedCategory>
+<VehicleAttachmentCategory>
+<HasVehicleAttachmentCategory>
+<Control />
+</HasVehicleAttachmentCategory>
+</VehicleAttachmentCategory>
+</Motor>
+</Risk>
+</Risks>
+<SituationGeneral>
+<Location>
+<Address1>
+<Value>XXXXXXXXXXXXX</Value>
+<Control />
+</Address1>
+<Address2>
+<Control />
+</Address2>
+<Postcode>
+<Value>XXXX</Value>
+<Control />
+</Postcode>
+<Suburb>
+<Value>XXXXXX</Value>
+<Control />
+</Suburb>
+<State>
+<Value>QLD</Value>
+<Control />
+</State>
+<DeliveryPointIdentifier>
+<Value>71130103</Value>
+<Control />
+</DeliveryPointIdentifier>
+<PreviousAddress>
+<Address1>
+<Value>12 WARLAND ST</Value>
+<Control />
+</Address1>
+<Address2>
+<Control />
+</Address2>
+<Postcode>
+<Value>4817</Value>
+<Control />
+</Postcode>
+<Suburb>
+<Value>KIRWAN</Value>
+<Control />
+</Suburb>
+<State>
+<Value>QLD</Value>
+<Control />
+</State>
+<Country>
+<Control />
+</Country>
+<DeliveryPointIdentifier>
+<Control />
+</DeliveryPointIdentifier>
+</PreviousAddress>
+<PostcodeAcrossStates>
+<Control />
+</PostcodeAcrossStates>
+<IsPostCodeEmbargoed>
+<Value>false</Value>
+<Control />
+</IsPostCodeEmbargoed>
+<IsManuallyAdded>
+<Control />
+</IsManuallyAdded>
+<LocationCodes>
+<FireDistrict>M</FireDistrict>
+<CrestaCode>
+<Value>9</Value>
+<Control />
+</CrestaCode>
+<CrimeZone>
+<Value>provincial</Value>
+<Control />
+</CrimeZone>
+<FireRatingCode>14</FireRatingCode>
+<FireZone>
+<Value>CYCLONE</Value>
+<Control />
+</FireZone>
+<BurglaryMoneyCode>
+<Value>Provincial</Value>
+<Control />
+</BurglaryMoneyCode>
+<GeneralPropertyZone>
+<Control />
+</GeneralPropertyZone>
+<GlassZone>
+<Value>Provincial</Value>
+<Control />
+</GlassZone>
+<RetailZone>
+<Value>4</Value>
+<Control />
+</RetailZone>
+<LiabilityZone>
+<Value>Queensland</Value>
+<Control />
+</LiabilityZone>
+<PostCodeZone>
+<Control />
+</PostCodeZone>
+</LocationCodes>
+<GeocodeInfo>
+<LocationType>G_POINT</LocationType>
+<LocationID>GAQLD155487104</LocationID>
+</GeocodeInfo>
+<PriorTermGeocodeInfo>
+<LocationType>G_POINT</LocationType>
+<LocationID>GAQLD155487104</LocationID>
+</PriorTermGeocodeInfo>
+<SuggestedAddressesFlag>
+<Control />
+</SuggestedAddressesFlag>
+<RequestAddressSuggestionsFlag>
+<Control />
+</RequestAddressSuggestionsFlag>
+</Location>
+<Occupation anzsicAddedDate="2026-05-08" officeOccupationFlag="false" motorOccupationFlag="false" tradesOccupationFlag="true" propertyOwnerFlag="false">
+<ANZSICCode>
+<Value>42440</Value>
+<Control />
+</ANZSICCode>
+<ANZSICReferralIndicator>
+<Control />
+</ANZSICReferralIndicator>
+<PreviousANZSICCode>
+<Value>42440</Value>
+<Control />
+</PreviousANZSICCode>
+<Trade>
+<Control />
+</Trade>
+<Retail>
+<Control />
+</Retail>
+<Occupation>
+<Value>Painter, decorator and sign writer</Value>
+<Control grandFathered="true" grandFatheredValue="Painter, decorator and sign writer" />
+</Occupation>
+<ExactOccupation>
+<Value>Painter</Value>
+<Control />
+</ExactOccupation>
+<AmendedANZSIC>
+<Control />
+</AmendedANZSIC>
+<HazardCodes>
+<Fire>
+<Value>57</Value>
+<Control />
+</Fire>
+<Theft>
+<Value>40</Value>
+<Control />
+</Theft>
+<Money>
+<Value>20</Value>
+<Control />
+</Money>
+<Glass>
+<Value>20</Value>
+<Control />
+</Glass>
+<Transit>
+<Value>20</Value>
+<Control />
+</Transit>
+<PublicLiability>
+<Value>22</Value>
+<Control />
+</PublicLiability>
+<ProductLiability>
+<Value>10</Value>
+<Control />
+</ProductLiability>
+<CustomerVehicle>
+<Value>90</Value>
+<Control />
+</CustomerVehicle>
+<AccidentalDamage>
+<Value>50</Value>
+<Control />
+</AccidentalDamage>
+<BusinessInterruption>
+<Value>60</Value>
+<Control />
+</BusinessInterruption>
+<CommercialMotor>
+<Value>5</Value>
+<Control />
+</CommercialMotor>
+<ConsumerProtection>
+<Value>-1</Value>
+<Control />
+</ConsumerProtection>
+<Crime>
+<Value>39</Value>
+<Control />
+</Crime>
+<DirectorsAndOfficers>
+<Value>30</Value>
+<Control />
+</DirectorsAndOfficers>
+<ElectronicEquipHardware>
+<Value>29</Value>
+<Control />
+</ElectronicEquipHardware>
+<ManagementLiabilityEPL>
+<Value>30</Value>
+<Control />
+</ManagementLiabilityEPL>
+<ElectronicEquipment>
+<Value>29</Value>
+<Control />
+</ElectronicEquipment>
+<ElectronicEquipSoftware>
+<Value>29</Value>
+<Control />
+</ElectronicEquipSoftware>
+<GeneralProperty>
+<Value>40</Value>
+<Control />
+</GeneralProperty>
+<Imports>
+<Value>20</Value>
+<Control />
+</Imports>
+<MachineryBreakdown>
+<Value>20</Value>
+<Control />
+</MachineryBreakdown>
+<PersonalAccident>
+<Value>62</Value>
+<Control />
+</PersonalAccident>
+<ProfessionalIndemnity>
+<Value>90</Value>
+<Control />
+</ProfessionalIndemnity>
+<TaxAudit>
+<Value>50</Value>
+<Control />
+</TaxAudit>
+<WorkForceManagement>
+<Value>30</Value>
+<Control />
+</WorkForceManagement>
+<EmployeeDishonesty>
+<Control />
+</EmployeeDishonesty>
+<TradeGrade>
+<Control />
+</TradeGrade>
+<MotorTradeRiskLevel>
+<Value>22</Value>
+<Control />
+</MotorTradeRiskLevel>
+<MotorTradeOptionalFireRisk>
+<Control />
+</MotorTradeOptionalFireRisk>
+</HazardCodes>
+<ExternalOccupationCode>
+<Control />
+</ExternalOccupationCode>
+<ExternalOccupationDescription>
+<Control />
+</ExternalOccupationDescription>
+<SurveyCategory>
+<Value>4</Value>
+<Control />
+</SurveyCategory>
+<FarmHazardCodesType>
+<FarmProperty>
+<Control />
+</FarmProperty>
+<HomeBuilding>
+<Control />
+</HomeBuilding>
+<HomeContents>
+<Control />
+</HomeContents>
+<PersonalEffects>
+<Control />
+</PersonalEffects>
+<FarmPublicAndProductsLiability>
+<Control />
+</FarmPublicAndProductsLiability>
+<FarmMotorVehicle>
+<Control />
+</FarmMotorVehicle>
+<FarmMachineryBreakdown>
+<Control />
+</FarmMachineryBreakdown>
+<FarmElectronicEquipment>
+<Control />
+</FarmElectronicEquipment>
+<FarmElectronicEquipmentSoftware>
+<Control />
+</FarmElectronicEquipmentSoftware>
+</FarmHazardCodesType>
+</Occupation>
+<Building>
+<ConstructionCodeFlag>
+<Control />
+</ConstructionCodeFlag>
+<Walls>
+<Control />
+</Walls>
+<Floors>
+<Control />
+</Floors>
+<Sprinklered>
+<Control />
+</Sprinklered>
+<FireRegulationsCompliance>
+<Control />
+</FireRegulationsCompliance>
+<TownWater>
+<Control />
+</TownWater>
+<RoofType>
+<Control />
+</RoofType>
+<YearBuilt>
+<Control />
+</YearBuilt>
+<RewiredFlag>
+<Control />
+</RewiredFlag>
+<HeritageStatusFlag>
+<Control />
+</HeritageStatusFlag>
+<SandwichFoamPercentage>
+<Control />
+</SandwichFoamPercentage>
+<FireStationProximityFlag>
+<Control />
+</FireStationProximityFlag>
+<HasFireExtinguishersFlag>
+<Control />
+</HasFireExtinguishersFlag>
+</Building>
+<Security>
+<Deadlocks>
+<Control />
+</Deadlocks>
+<Locks>
+<Control />
+</Locks>
+<DisplayWindows>
+<Control />
+</DisplayWindows>
+<ExternalLighting>
+<Control />
+</ExternalLighting>
+<Bollards>
+<Control />
+</Bollards>
+<MonitoredAlarm>
+<Control />
+</MonitoredAlarm>
+<TypeOfMonitoredAlarm>
+<Control />
+</TypeOfMonitoredAlarm>
+<ClosedCircuitTV>
+<Control />
+</ClosedCircuitTV>
+<SecurityPersonnel>
+<Control />
+</SecurityPersonnel>
+<FenceWall>
+<Control />
+</FenceWall>
+<BarsOnExternalWindows>
+<Control />
+</BarsOnExternalWindows>
+<SecurityPoints>
+<Control />
+</SecurityPoints>
+</Security>
+<State>
+<PreExistingTerm>
+<Value>true</Value>
+<Control />
+</PreExistingTerm>
+<PreExistingTransaction>
+<Value>false</Value>
+<Control />
+</PreExistingTransaction>
+<TerminationDate>
+<Control />
+</TerminationDate>
+<PreExistingRenewalRerateTransaction>true</PreExistingRenewalRerateTransaction>
+<NonPDSRisk>
+<Control />
+</NonPDSRisk>
+<EndorsementChanged>
+<Control />
+</EndorsementChanged>
+</State>
+<ErrorStatus>
+<HasInvalid>
+<Value>false</Value>
+<Control />
+</HasInvalid>
+<HasDecline>
+<Value>false</Value>
+<Control />
+</HasDecline>
+<HasReferral>
+<Value>false</Value>
+<Control />
+</HasReferral>
+</ErrorStatus>
+<ResetPremiums>
+<Control />
+</ResetPremiums>
+<ValidNumberOfRisks>
+<Value>2</Value>
+<Control />
+</ValidNumberOfRisks>
+<SeasonalIncrease>
+<FirstPeriodFrom>
+<Control />
+</FirstPeriodFrom>
+<FirstPeriodTo>
+<Control />
+</FirstPeriodTo>
+<SecondPeriodFrom>
+<Control />
+</SecondPeriodFrom>
+<SecondPeriodTo>
+<Control />
+</SecondPeriodTo>
+<DefaultsChanged>
+<Value>false</Value>
+<Control />
+</DefaultsChanged>
+</SeasonalIncrease>
+<PackageSelection>
+<MaterialDamage>
+<Control />
+</MaterialDamage>
+<Liability>
+<Control />
+</Liability>
+<Theft>
+<Control />
+</Theft>
+<PersonalAccident>
+<Control />
+</PersonalAccident>
+<SingleRisk>
+<Control />
+</SingleRisk>
+</PackageSelection>
+<TenantOccupation>
+<ANZSICCode>
+<Control />
+</ANZSICCode>
+<PreviousANZSICCode>
+<Control />
+</PreviousANZSICCode>
+<Occupation>
+<Control />
+</Occupation>
+<ExactOccupation>
+<Control />
+</ExactOccupation>
+<ExternalOccupationCode>
+<Control />
+</ExternalOccupationCode>
+<ExternalOccupationDescription>
+<Control />
+</ExternalOccupationDescription>
+</TenantOccupation>
+<PackageDiscountCode>P999</PackageDiscountCode>
+<AnnualTurnover>
+<Control />
+</AnnualTurnover>
+<IndexedAnnualTurnover>0</IndexedAnnualTurnover>
+<NumberOfEmployees>
+<Control />
+</NumberOfEmployees>
+<StampDutyExemptFlag>
+<Value>false</Value>
+<Control />
+</StampDutyExemptFlag>
+<PersonalAccidentCoverOnly>
+<Control />
+</PersonalAccidentCoverOnly>
+<displayId>
+<Value>1</Value>
+<Control />
+</displayId>
+<OtherTenantOccupation>
+<ANZSICCode>
+<Value />
+<Control />
+</ANZSICCode>
+<PreviousANZSICCode>
+<Value />
+<Control />
+</PreviousANZSICCode>
+<Occupation>
+<Value />
+<Control />
+</Occupation>
+<ExactOccupation>
+<Value />
+<Control />
+</ExactOccupation>
+<ExternalOccupationCode>
+<Control />
+</ExternalOccupationCode>
+<ExternalOccupationDescription>
+<Control />
+</ExternalOccupationDescription>
+<HazardCodes>
+<Fire>
+<Value />
+<Control />
+</Fire>
+<Theft>
+<Value />
+<Control />
+</Theft>
+<Money>
+<Value />
+<Control />
+</Money>
+<Glass>
+<Value />
+<Control />
+</Glass>
+<Transit>
+<Value />
+<Control />
+</Transit>
+<PublicLiability>
+<Value />
+<Control />
+</PublicLiability>
+<ProductLiability>
+<Value />
+<Control />
+</ProductLiability>
+<CustomerVehicle>
+<Value />
+<Control />
+</CustomerVehicle>
+<AccidentalDamage>
+<Value />
+<Control />
+</AccidentalDamage>
+<BusinessInterruption>
+<Value />
+<Control />
+</BusinessInterruption>
+<CommercialMotor>
+<Value />
+<Control />
+</CommercialMotor>
+<ConsumerProtection>
+<Value />
+<Control />
+</ConsumerProtection>
+<Crime>
+<Value />
+<Control />
+</Crime>
+<DirectorsAndOfficers>
+<Value />
+<Control />
+</DirectorsAndOfficers>
+<ElectronicEquipHardware>
+<Value />
+<Control />
+</ElectronicEquipHardware>
+<ManagementLiabilityEPL>
+<Value />
+<Control />
+</ManagementLiabilityEPL>
+<ElectronicEquipment>
+<Value />
+<Control />
+</ElectronicEquipment>
+<ElectronicEquipSoftware>
+<Value />
+<Control />
+</ElectronicEquipSoftware>
+<GeneralProperty>
+<Value />
+<Control />
+</GeneralProperty>
+<Imports>
+<Value />
+<Control />
+</Imports>
+<MachineryBreakdown>
+<Value />
+<Control />
+</MachineryBreakdown>
+<PersonalAccident>
+<Value />
+<Control />
+</PersonalAccident>
+<ProfessionalIndemnity>
+<Value />
+<Control />
+</ProfessionalIndemnity>
+<TaxAudit>
+<Value />
+<Control />
+</TaxAudit>
+<WorkForceManagement>
+<Value />
+<Control />
+</WorkForceManagement>
+<EmployeeDishonesty>
+<Value />
+<Control />
+</EmployeeDishonesty>
+<TradeGrade>
+<Value />
+<Control />
+</TradeGrade>
+<MotorTradeRiskLevel>
+<Value />
+<Control />
+</MotorTradeRiskLevel>
+<MotorTradeOptionalFireRisk>
+<Value />
+<Control />
+</MotorTradeOptionalFireRisk>
+</HazardCodes>
+</OtherTenantOccupation>
+</SituationGeneral>
+</Situation>
+</Situations>
+<Interact>
+<InteractId>
+<Value>32440749</Value>
+<Control />
+</InteractId>
+<InteractAction>
+<Control />
+</InteractAction>
+<CompleteAction>
+<Value>BIND</Value>
+<Control />
+</CompleteAction>
+<CounterStatus>
+<Value>NO_COUNTER</Value>
+<Control />
+</CounterStatus>
+<ReferenceRevisionId>
+<Value>63</Value>
+<Control />
+</ReferenceRevisionId>
+<ExchangeUrl>
+<Value>http://172.27.1.91:8080/te/servlet/SRServlet</Value>
+<Control />
+</ExchangeUrl>
+</Interact>
+<Evolution>
+<CompanyCode>1</CompanyCode>
+<SelfReferredFlag>
+<Value>false</Value>
+<Control />
+</SelfReferredFlag>
+<UnderWriterSendSkipFlag>
+<Value>false</Value>
+<Control />
+</UnderWriterSendSkipFlag>
+<AcceptApprovalFlag>false</AcceptApprovalFlag>
+<ReferralCounter />
+<WorkRequestID>
+<Control />
+</WorkRequestID>
+<ReferralId>
+<Control />
+</ReferralId>
+<EDIType>
+<Value>M</Value>
+<Control />
+</EDIType>
+<BrokerRenewalFlag>true</BrokerRenewalFlag>
+<RenewalReversalFlag>true</RenewalReversalFlag>
+<EDIOverrideFlag>true</EDIOverrideFlag>
+<EDIMRRRuleFlag>true</EDIMRRRuleFlag>
+<EDIRenewalImportFlag>true</EDIRenewalImportFlag>
+<SpecialAttentionFlag>
+<Control />
+</SpecialAttentionFlag>
+<PushQuoteToSunriseFlag>
+<Value>false</Value>
+<Control />
+</PushQuoteToSunriseFlag>
+<PushQuoteStatus>
+<Control />
+</PushQuoteStatus>
+<ContactMethod>
+<Value>F</Value>
+<Control />
+</ContactMethod>
+<SchemeId>
+<Value>DEFAULT_SCHEME</Value>
+<Control />
+</SchemeId>
+<SchemeName>No Scheme</SchemeName>
+<PreviousSchemeId>
+<Value>DEFAULT_SCHEME</Value>
+<Control />
+</PreviousSchemeId>
+<DefaultSchemeCode>101027</DefaultSchemeCode>
+<TransactionGroupId>
+<Control />
+</TransactionGroupId>
+<EndorsementType>
+<Control />
+</EndorsementType>
+<EDIPolicy>
+<Control />
+</EDIPolicy>
+<SpecialAttentionStatus>
+<Control />
+</SpecialAttentionStatus>
+<InvoiceNumber>
+<Control />
+</InvoiceNumber>
+<ReplacementPolicyNumber>
+<Control />
+</ReplacementPolicyNumber>
+<NoticesTo>
+<Value>Broker</Value>
+<Control />
+</NoticesTo>
+<MaxRiskNumber>
+<Value>9</Value>
+<Control />
+</MaxRiskNumber>
+<CommonOccupationFlag>
+<Value>false</Value>
+<Control />
+</CommonOccupationFlag>
+<IndicativePriceFlag>
+<Value>false</Value>
+<Control />
+</IndicativePriceFlag>
+<PromotionCode>
+<Control />
+</PromotionCode>
+<GeneralPage />
+<InterestedParties>
+<InterestedParty>
+<Name>
+<Value>PowerTorque Finance</Value>
+<Control />
+</Name>
+<NatureOfInterest>
+<Value>Secured Finance</Value>
+<Control />
+</NatureOfInterest>
+<OtherNatureOfInterest>
+<Control />
+</OtherNatureOfInterest>
+<RiskClass>
+<Value>VSN</Value>
+<Control />
+</RiskClass>
+<RiskNumber>
+<Value>008</Value>
+<Control />
+</RiskNumber>
+<SituationNumber>
+<Value>001</Value>
+<Control />
+</SituationNumber>
+<Address>
+<Control />
+</Address>
+</InterestedParty>
+</InterestedParties>
+<ClaimHistories />
+<OriginalRequestingSystem>
+<Control />
+</OriginalRequestingSystem>
+<UnderwriterComments>
+<Comment>
+<DateCreated>
+<Value>2018-08-08</Value>
+<Control />
+</DateCreated>
+<User>
+<Value>XXXXXXXXX</Value>
+<Control />
+</User>
+<RiskClass>
+<Value>VSN</Value>
+<Control />
+</RiskClass>
+<RiskNumber>
+<Control />
+</RiskNumber>
+<SituationNumber>
+<Value>001</Value>
+<Control />
+</SituationNumber>
+<Note>
+<Value>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</Value>
+<Control />
+</Note>
+</Comment>
+<Comment>
+<DateCreated>
+<Value>2020-03-28</Value>
+<Control />
+</DateCreated>
+<User>
+<Value>XXXXXXXXXXXX</Value>
+<Control />
+</User>
+<RiskClass>
+<Value>VSN</Value>
+<Control />
+</RiskClass>
+<RiskNumber>
+<Control />
+</RiskNumber>
+<SituationNumber>
+<Value>001</Value>
+<Control />
+</SituationNumber>
+<Note>
+<Value>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</Value>
+<Control />
+</Note>
+</Comment>
+<Comment>
+<DateCreated>
+<Value>2023-06-30</Value>
+<Control />
+</DateCreated>
+<User>
+<Value>XXXXXXXXXXX</Value>
+<Control />
+</User>
+<RiskClass>
+<Value>VSN</Value>
+<Control />
+</RiskClass>
+<RiskNumber>
+<Control />
+</RiskNumber>
+<SituationNumber>
+<Value>001</Value>
+<Control />
+</SituationNumber>
+<Note>
+<Value>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</Value>
+<Control />
+</Note>
+</Comment>
+<Comment>
+<DateCreated>
+<Value>2025-04-30</Value>
+<Control />
+</DateCreated>
+<User>
+<Value>XXXXXXXXX</Value>
+<Control />
+</User>
+<RiskClass>
+<Value>VSN</Value>
+<Control />
+</RiskClass>
+<RiskNumber>
+<Control />
+</RiskNumber>
+<SituationNumber>
+<Value>001</Value>
+<Control />
+</SituationNumber>
+<Note>
+<Value>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</Value>
+<Control />
+</Note>
+</Comment>
+<Comment>
+<DateCreated>
+<Value>2025-05-01</Value>
+<Control />
+</DateCreated>
+<User>
+<Value>XXXXXXXXX</Value>
+<Control />
+</User>
+<RiskClass>
+<Value>VSN</Value>
+<Control />
+</RiskClass>
+<RiskNumber>
+<Control />
+</RiskNumber>
+<SituationNumber>
+<Value>001</Value>
+<Control />
+</SituationNumber>
+<Note>
+<Value>XXXXXXXXXXXXXXXXXXXXXXXXXXXX</Value>
+<Control />
+</Note>
+</Comment>
+<Comment>
+<DateCreated>
+<Value>2026-04-13</Value>
+<Control />
+</DateCreated>
+<User>
+<Value>XXXXXXXXXXXXXXXX</Value>
+<Control />
+</User>
+<RiskClass>
+<Value>VSN</Value>
+<Control />
+</RiskClass>
+<RiskNumber>
+<Control />
+</RiskNumber>
+<SituationNumber>
+<Value>001</Value>
+<Control />
+</SituationNumber>
+<Note>
+<Value>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</Value>
+<Control />
+</Note>
+</Comment>
+<Comment>
+<DateCreated>
+<Value>2026-05-01</Value>
+<Control />
+</DateCreated>
+<User>
+<Value>XXXXXXXXXXXXXX</Value>
+<Control />
+</User>
+<RiskClass>
+<Value>VSN</Value>
+<Control />
+</RiskClass>
+<RiskNumber>
+<Control />
+</RiskNumber>
+<SituationNumber>
+<Value>001</Value>
+<Control />
+</SituationNumber>
+<Note>
+<Value>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</Value>
+<Control />
+</Note>
+</Comment>
+</UnderwriterComments>
+<TotalPremium>
+<Base>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-3018.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Base>
+<Net>
+<AnnualAmount>3018.00</AnnualAmount>
+<MonthlyAmount>251.50</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-3018.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Net>
+<AALNet>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-3153.84</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</AALNet>
+<GST>
+<AnnualAmount>301.80</AnnualAmount>
+<MonthlyAmount>25.15</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-301.80</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</GST>
+<FireServicesLevy>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>0.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</FireServicesLevy>
+<StampDuty>
+<AnnualAmount>298.80</AnnualAmount>
+<MonthlyAmount>24.90</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-298.80</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</StampDuty>
+<Gross>
+<AnnualAmount>3618.60</AnnualAmount>
+<MonthlyAmount>301.55</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-3618.60</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Gross>
+<Commission>
+<AnnualAmount>422.52</AnnualAmount>
+<MonthlyAmount>35.21</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-422.52</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Commission>
+<CommissionGST>
+<AnnualAmount>42.24</AnnualAmount>
+<MonthlyAmount>3.52</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-42.24</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</CommissionGST>
+<InstallmentLoading>
+<YearlyLoading>0.00</YearlyLoading>
+<MonthlyLoading>0.00</MonthlyLoading>
+<FortnightlyLoading>0.00</FortnightlyLoading>
+<EndOfTermLoading>0.00</EndOfTermLoading>
+<ComparisonLoading>0.00</ComparisonLoading>
+<InstallmentGapLoading>0.00</InstallmentGapLoading>
+</InstallmentLoading>
+<Actuarial>
+<AnnualAmount>2784.53</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-2784.53</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Actuarial>
+<Technical>
+<AnnualAmount>2784.53</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-2784.53</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</Technical>
+<TerrorismCharge>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>0.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</TerrorismCharge>
+<TermCalculatedPremium>3018.00</TermCalculatedPremium>
+<TermSavingPremium>0.01</TermSavingPremium>
+</TotalPremium>
+<UnadjustedGrossPremium>
+<AnnualAmount>3618.60</AnnualAmount>
+<MonthlyAmount>301.55</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>-3618.60</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</UnadjustedGrossPremium>
+<TargetPremium>
+<Control />
+</TargetPremium>
+<PolicyDiscount>
+<Control />
+</PolicyDiscount>
+<TotalAppliedAdjustment>8.38</TotalAppliedAdjustment>
+<TotalNetTerrorismAmount>
+<AnnualAmount>0.00</AnnualAmount>
+<MonthlyAmount>0.00</MonthlyAmount>
+<FortnightlyAmount>0.00</FortnightlyAmount>
+<YearlyInstallmentAmount>0.00</YearlyInstallmentAmount>
+<EndOfTermAmount>0.00</EndOfTermAmount>
+<ComparisonAmount>0.00</ComparisonAmount>
+<InstallmentGapAmount>0.00</InstallmentGapAmount>
+</TotalNetTerrorismAmount>
+<CommissionRate>
+<Control />
+</CommissionRate>
+<PreviousTransactionPaid>
+<CommissionAdjustedPremium>3018.00</CommissionAdjustedPremium>
+<Commission>
+<Amount>422.52</Amount>
+<GST>42.24</GST>
+</Commission>
+<FireServiceLevy>0.00</FireServiceLevy>
+<GoodsAndServiceTax>301.80</GoodsAndServiceTax>
+<StampDuty>298.80</StampDuty>
+<GrossPremium>3618.60</GrossPremium>
+</PreviousTransactionPaid>
+<MotorCommissionRate>
+<Control />
+</MotorCommissionRate>
+<TWBLogTransNo>
+<Control />
+</TWBLogTransNo>
+<CommercialMotor>
+<DriverHistory />
+<MotorClaimsHistory>
+<HasPreviousClaims>
+<Value>true</Value>
+<Control />
+</HasPreviousClaims>
+<MotorClaim>
+<DriverName>
+<Value>Tony Case</Value>
+<Control />
+</DriverName>
+<Period>
+<Value>Over 3 years ago</Value>
+<Control />
+</Period>
+<Type>
+<Value>Insured At Fault</Value>
+<Control />
+</Type>
+<IncurredAmount>
+<Value>3604</Value>
+<Control />
+</IncurredAmount>
+<SystemAddedClaimFlag>false</SystemAddedClaimFlag>
+</MotorClaim>
+<MotorClaim>
+<DriverName>
+<Value>Tony Case</Value>
+<Control />
+</DriverName>
+<Period>
+<Value>Over 3 years ago</Value>
+<Control />
+</Period>
+<Type>
+<Value>Windscreen</Value>
+<Control />
+</Type>
+<IncurredAmount>
+<Value>507</Value>
+<Control />
+</IncurredAmount>
+<SystemAddedClaimFlag>false</SystemAddedClaimFlag>
+</MotorClaim>
+<MotorClaim>
+<DriverName>
+<Value>Tony Case</Value>
+<Control />
+</DriverName>
+<Period>
+<Value>Over 3 years ago</Value>
+<Control />
+</Period>
+<Type>
+<Value>Insured At Fault</Value>
+<Control />
+</Type>
+<IncurredAmount>
+<Value>7279</Value>
+<Control />
+</IncurredAmount>
+<SystemAddedClaimFlag>false</SystemAddedClaimFlag>
+</MotorClaim>
+<MotorClaim polisyMotorClaimId="C1420130404">
+<DriverName>
+<Value>NO DRIVER</Value>
+<Control />
+</DriverName>
+<Period>
+<Value>Over 3 years ago</Value>
+<Control />
+</Period>
+<Type>
+<Value>Windscreen</Value>
+<Control />
+</Type>
+<IncurredAmount>
+<Value>267</Value>
+<Control />
+</IncurredAmount>
+<SystemAddedClaimFlag>true</SystemAddedClaimFlag>
+<IncidentDate>2018-11-01T00:00:00</IncidentDate>
+</MotorClaim>
+<MotorClaim polisyMotorClaimId="C1420130403">
+<DriverName>
+<Value>NO DRIVER</Value>
+<Control />
+</DriverName>
+<Period>
+<Value>Over 3 years ago</Value>
+<Control />
+</Period>
+<Type>
+<Value>Windscreen</Value>
+<Control />
+</Type>
+<IncurredAmount>
+<Value>262</Value>
+<Control />
+</IncurredAmount>
+<SystemAddedClaimFlag>true</SystemAddedClaimFlag>
+<IncidentDate>2018-10-25T00:00:00</IncidentDate>
+</MotorClaim>
+<MotorClaim polisyMotorClaimId="C1420136219">
+<DriverName>
+<Value>NO DRIVER</Value>
+<Control />
+</DriverName>
+<Period>
+<Value>Over 3 years ago</Value>
+<Control />
+</Period>
+<Type>
+<Value>Windscreen</Value>
+<Control />
+</Type>
+<IncurredAmount>
+<Value>209</Value>
+<Control />
+</IncurredAmount>
+<SystemAddedClaimFlag>true</SystemAddedClaimFlag>
+<IncidentDate>2019-09-24T00:00:00</IncidentDate>
+</MotorClaim>
+<MotorClaim polisyMotorClaimId="C1420167455">
+<DriverName>
+<Value>NO DRIVER</Value>
+<Control />
+</DriverName>
+<Period>
+<Value>3-4 years ago</Value>
+<Control />
+</Period>
+<Type>
+<Value>Windscreen</Value>
+<Control />
+</Type>
+<IncurredAmount>
+<Value>262</Value>
+<Control />
+</IncurredAmount>
+<SystemAddedClaimFlag>true</SystemAddedClaimFlag>
+<IncidentDate>2023-04-27T00:00:00</IncidentDate>
+</MotorClaim>
+<MotorClaim polisyMotorClaimId="C1420167457">
+<DriverName>
+<Value>NO DRIVER</Value>
+<Control />
+</DriverName>
+<Period>
+<Value>3-4 years ago</Value>
+<Control />
+</Period>
+<Type>
+<Value>Windscreen</Value>
+<Control />
+</Type>
+<IncurredAmount>
+<Value>205</Value>
+<Control />
+</IncurredAmount>
+<SystemAddedClaimFlag>true</SystemAddedClaimFlag>
+<IncidentDate>2023-04-27T00:00:00</IncidentDate>
+</MotorClaim>
+<MotorClaimsCategoryCode>
+<Value>1</Value>
+<Control />
+</MotorClaimsCategoryCode>
+<PriorTermMotorClaimsCategoryCode>1</PriorTermMotorClaimsCategoryCode>
+<MotorClaimsCountForPricing>
+<ClaimsCountCurrentYear>0</ClaimsCountCurrentYear>
+<ClaimsCountPreviousYear>0</ClaimsCountPreviousYear>
+<ClaimsCountPrevious2Years>0</ClaimsCountPrevious2Years>
+</MotorClaimsCountForPricing>
+<PriorTermMotorClaimsCountForPricing>
+<ClaimsCountCurrentYear>0</ClaimsCountCurrentYear>
+<ClaimsCountPreviousYear>0</ClaimsCountPreviousYear>
+<ClaimsCountPrevious2Years>2</ClaimsCountPrevious2Years>
+</PriorTermMotorClaimsCountForPricing>
+</MotorClaimsHistory>
+<CommercialMotorSelected>
+<Value>true</Value>
+<Control />
+</CommercialMotorSelected>
+<CommercialMotorVehicleCountForPricing>2</CommercialMotorVehicleCountForPricing>
+<PriorTermCommercialMotorVehicleCountForPricing>4</PriorTermCommercialMotorVehicleCountForPricing>
+<FarmMotorCountForUnderwriting>
+<Value>2</Value>
+<Control />
+</FarmMotorCountForUnderwriting>
+</CommercialMotor>
+<PrintFilter>
+<DocumentType>
+<Control />
+</DocumentType>
+<PrintAll>
+<Value>true</Value>
+<Control />
+</PrintAll>
+</PrintFilter>
+<PrintDelivery>
+<DeliveryMethod>
+<Control />
+</DeliveryMethod>
+<EmailAddress>
+<Value>XXXXXXXXXXXXXXXXXXXXXX</Value>
+<Control />
+</EmailAddress>
+<ConsentToReceiveDocument>
+<Control />
+</ConsentToReceiveDocument>
+</PrintDelivery>
+<StatusFlags>
+<DontUpload>
+<Control />
+</DontUpload>
+</StatusFlags>
+<maxSituationDisplayId>
+<Value>2</Value>
+<Control />
+</maxSituationDisplayId>
+<maxVehicleId>
+<Value>9</Value>
+<Control />
+</maxVehicleId>
+<firstRenewalRerateDone>true</firstRenewalRerateDone>
+<renewalTermsIssued>true</renewalTermsIssued>
+<EDINextTermFlag>
+<Value>true</Value>
+<Control />
+</EDINextTermFlag>
+<SBDSales>
+<AssociationCode>
+<Control />
+</AssociationCode>
+</SBDSales>
+<QuoteRetrievalLink>
+<Control />
+</QuoteRetrievalLink>
+<NewMoranTowTruckFlag>
+<Value>false</Value>
+<Control />
+</NewMoranTowTruckFlag>
+<HonorTowTruckForMPK>
+<Value>true</Value>
+<Control />
+</HonorTowTruckForMPK>
+<NewMoranTowTruckFlagForVSD>
+<Value>false</Value>
+<Control />
+</NewMoranTowTruckFlagForVSD>
+<IsReferralCloseByBulk>false</IsReferralCloseByBulk>
+<DoesPolicyHasMPKOccupation>
+<Value>false</Value>
+<Control />
+</DoesPolicyHasMPKOccupation>
+<HonorDrivingRiskExtensionForCOMFlag>
+<Value>false</Value>
+<Control />
+</HonorDrivingRiskExtensionForCOMFlag>
+<EnableProtectionCoverForSBDOnline>
+<Value>false</Value>
+<Control />
+</EnableProtectionCoverForSBDOnline>
+<SMELeadData>
+<LeadUUID>
+<Control />
+</LeadUUID>
+<InsuredName>
+<Control />
+</InsuredName>
+<AccountNumber>
+<Control />
+</AccountNumber>
+<AnzsicDescription>
+<Control />
+</AnzsicDescription>
+<Dpi>
+<Control />
+</Dpi>
+<BankerId>
+<Control />
+</BankerId>
+<ClientEmail>
+<Control />
+</ClientEmail>
+<ClientPhone>
+<Control />
+</ClientPhone>
+</SMELeadData>
+<SVUExtensions>
+<SVUClaimHistory />
+<OtherDisclosureIndicator>
+<Control />
+</OtherDisclosureIndicator>
+<OtherDisclosureItems />
+</SVUExtensions>
+<NonPrintableNotes />
+<HoldingBrokerDetails>
+<IsHoldingBroker>
+<Control />
+</IsHoldingBroker>
+<HasLetterOfAuthority>
+<Control />
+</HasLetterOfAuthority>
+</HoldingBrokerDetails>
+<PriorTermPaidPremium>
+<BasePremium>3281.76</BasePremium>
+<FireServiceLevy>0.00</FireServiceLevy>
+<GoodsAndServiceTax>328.20</GoodsAndServiceTax>
+<StampDuty>324.84</StampDuty>
+<TotalPremium>3934.80</TotalPremium>
+</PriorTermPaidPremium>
+<CancellationUnearnedPremium />
+<IsNewCommMotorLiabilityAndExcessEnabled>true</IsNewCommMotorLiabilityAndExcessEnabled>
+<RenewalRerateReferralCheckedFlag>
+<Value>false</Value>
+<Control />
+</RenewalRerateReferralCheckedFlag>
+<CommercialMotorClaimsInsurerDeclined>
+<Value>false</Value>
+<Control />
+</CommercialMotorClaimsInsurerDeclined>
+<RenewalToBeDeclinedFlag>
+<Value>false</Value>
+<Control />
+</RenewalToBeDeclinedFlag>
+<DeclineMotorClaimsHistory />
+<RestrictBusinessInterruptionPolisyRisk>false</RestrictBusinessInterruptionPolisyRisk>
+<TelephoneCallType>
+<Control />
+</TelephoneCallType>
+<PersonalAccidentRemovedAtFirstRerate>false</PersonalAccidentRemovedAtFirstRerate>
+<UseNewFireSurveyRule>
+<Value>false</Value>
+<Control />
+</UseNewFireSurveyRule>
+<DeferredSalesModel>
+<DSMApply>
+<Control />
+</DSMApply>
+<AddOnInsurance>
+<Control />
+</AddOnInsurance>
+<CommitmentDate>
+<Control />
+</CommitmentDate>
+<DSMStartDate>
+<Control />
+</DSMStartDate>
+<DSMEndDate>
+<Control />
+</DSMEndDate>
+<PostDSMDate>
+<Control />
+</PostDSMDate>
+<ASICEmailedDate>
+<Control />
+</ASICEmailedDate>
+<ASICEmailed>
+<Control />
+</ASICEmailed>
+<CustomerEmailAdress>
+<Control />
+</CustomerEmailAdress>
+<OptOut>
+<Control />
+</OptOut>
+<OptOutHistory />
+</DeferredSalesModel>
+<EnableMultiTenantOccupation>false</EnableMultiTenantOccupation>
+<RemoveAccessoriesFlag>true</RemoveAccessoriesFlag>
+<ApplicableDutyFlag>
+<Value>false</Value>
+<Control />
+</ApplicableDutyFlag>
+<AdditionalInformationFlag>
+<Value>false</Value>
+<Control />
+</AdditionalInformationFlag>
+<Farm>
+<SituationUnoccupancyDisclosure>
+<Value>false</Value>
+<Control />
+</SituationUnoccupancyDisclosure>
+<AnnualTurnover>
+<Control />
+</AnnualTurnover>
+<TotalSituations>
+<Control />
+</TotalSituations>
+</Farm>
+</Evolution>
+<PolicyBasics>
+<Navigation>
+<Control />
+</Navigation>
+<InsurerCode>
+<Value>AAL</Value>
+<Control />
+</InsurerCode>
+<GeneralPage>
+<Description>
+<Control />
+</Description>
+<IsRequiredToBePrinted>
+<Control />
+</IsRequiredToBePrinted>
+</GeneralPage>
+<SunriseNumber>
+<Control />
+</SunriseNumber>
+<QuoteNumber>
+<Value>XXXXXXXXXXXXX</Value>
+<Control />
+</QuoteNumber>
+<PreviousQuoteNumber>
+<Value>XXXXXXXXXXXXX</Value>
+<Control />
+</PreviousQuoteNumber>
+<ApplicationCode>C2</ApplicationCode>
+<ProductCode>
+<Value>VSD</Value>
+<Control />
+</ProductCode>
+<ProductName>
+<Value>Commercial Motor Insurance</Value>
+<Control />
+</ProductName>
+<IsProductNameUpdated>true</IsProductNameUpdated>
+<PolicyNumber>
+<Value>XXXXXXXXXXXXX</Value>
+<Control />
+</PolicyNumber>
+<PolicyReference>
+<Value>ALZ18-65698-1-1</Value>
+<Control />
+</PolicyReference>
+<AttachmentDate>
+<Value>2026-05-08</Value>
+<Control />
+</AttachmentDate>
+<TermEffectiveDate>
+<Value>2026-05-08</Value>
+<Control />
+</TermEffectiveDate>
+<TermEffectiveTime>
+<Control />
+</TermEffectiveTime>
+<PreviousTermEffectiveDate>
+<Value>2026-05-08</Value>
+<Control />
+</PreviousTermEffectiveDate>
+<PriorTermEffectiveDate>2025-05-08</PriorTermEffectiveDate>
+<PreviousAttachmentDate>
+<Value>2026-05-08</Value>
+<Control />
+</PreviousAttachmentDate>
+<TermExpiryDate>
+<Value>2027-05-08</Value>
+<Control />
+</TermExpiryDate>
+<PreviousTermExpiryDate>
+<Value>2027-05-08</Value>
+<Control />
+</PreviousTermExpiryDate>
+<PriorTermExpiryDate>2026-05-08</PriorTermExpiryDate>
+<RefundDays>
+<Control />
+</RefundDays>
+<QuoteValidToDate>
+<Value>2018-05-28</Value>
+<Control />
+</QuoteValidToDate>
+<QuoteIssueDate>
+<Value>2018-03-29</Value>
+<Control />
+</QuoteIssueDate>
+<EnablePolisyPolicyStatus>true</EnablePolisyPolicyStatus>
+<VersionControl>
+<RangeId>
+<Control />
+</RangeId>
+<Folder>
+<Value>11367145</Value>
+<Control />
+</Folder>
+<Period>
+<Control />
+</Period>
+<Version>
+<Value>69</Value>
+<Control />
+</Version>
+<TransactionOriginialVersion>62</TransactionOriginialVersion>
+</VersionControl>
+<TransactionType>
+<Value>Lapse</Value>
+<Control />
+</TransactionType>
+<TransactionSubType>
+<Value>LP</Value>
+<Control />
+</TransactionSubType>
+<QuoteType>
+<Value>newBusiness</Value>
+<Control />
+</QuoteType>
+<QuoteOutcome>
+<Control />
+</QuoteOutcome>
+<PreviousQuoteOutcome>
+<Control />
+</PreviousQuoteOutcome>
+<QuoteAuthorised>
+<Value>true</Value>
+<Control />
+</QuoteAuthorised>
+<ReasonForNotProceeding>
+<Control />
+</ReasonForNotProceeding>
+<Channel>
+<Value>SRS</Value>
+<Control />
+</Channel>
+<TargetCode>
+<Control />
+</TargetCode>
+<PolicyStates>
+<ContractStage>
+<Value>RR1</Value>
+<Control />
+</ContractStage>
+<ContractStatus>
+<Value>LP</Value>
+<Control />
+</ContractStatus>
+<ProcessStatus>
+<Value>A</Value>
+<Control />
+</ProcessStatus>
+<CloseType>
+<Value>AC</Value>
+<Control />
+</CloseType>
+<PreviousContractStage>
+<Value>RR1</Value>
+<Control />
+</PreviousContractStage>
+<ReinstateContractStage>
+<Value>RR1</Value>
+<Control />
+</ReinstateContractStage>
+<PreviousContractStatus>
+<Value>CL</Value>
+<Control />
+</PreviousContractStatus>
+<PreviousProcessStatus>
+<Value>I</Value>
+<Control />
+</PreviousProcessStatus>
+<PeriodStartStage>
+<Value>RR1</Value>
+<Control />
+</PeriodStartStage>
+</PolicyStates>
+<AuthorisationReferenceNo>
+<Control />
+</AuthorisationReferenceNo>
+<ReferralContactDetails>
+<Name>
+<Control />
+</Name>
+<AreaCode>
+<Control />
+</AreaCode>
+<TelephoneNo>
+<Control />
+</TelephoneNo>
+<Extension>
+<Control />
+</Extension>
+<EmailAddress>
+<Control />
+</EmailAddress>
+<PreferredContactMethod>
+<Control />
+</PreferredContactMethod>
+</ReferralContactDetails>
+<Print>
+<Quote>
+<Value>No</Value>
+<Control />
+</Quote>
+<Proposal>
+<Value>No</Value>
+<Control />
+</Proposal>
+<CovernoteNewBusiness>
+<Value>No</Value>
+<Control />
+</CovernoteNewBusiness>
+<CovernoteAmendment>
+<Value>No</Value>
+<Control />
+</CovernoteAmendment>
+<PolicyCertificate>
+<Value>No</Value>
+<Control />
+</PolicyCertificate>
+<CertificateOfCurrency>
+<Value>No</Value>
+<Control />
+</CertificateOfCurrency>
+<Renewal>
+<Value>No</Value>
+<Control />
+</Renewal>
+<RenewalInvitation>
+<Value>No</Value>
+<Control />
+</RenewalInvitation>
+<RenewalAmendment>
+<Value>No</Value>
+<Control />
+</RenewalAmendment>
+<Endorsment>
+<Value>No</Value>
+<Control />
+</Endorsment>
+<Cancellation>
+<Value>No</Value>
+<Control />
+</Cancellation>
+<Lapse>
+<Value>No</Value>
+<Control />
+</Lapse>
+<RecordOfAnswers>
+<Value>No</Value>
+<Control />
+</RecordOfAnswers>
+<PolicyInputSheet>
+<Control />
+</PolicyInputSheet>
+</Print>
+<Premium>
+<SetTransactionPremiumToZeroAllowed>
+<Value>false</Value>
+<Control />
+</SetTransactionPremiumToZeroAllowed>
+<SetTransactionPremiumToZero>
+<Value>false</Value>
+<Control />
+</SetTransactionPremiumToZero>
+<PreviousSetTransactionPremiumToZero>
+<Value>false</Value>
+<Control />
+</PreviousSetTransactionPremiumToZero>
+<TransactionPremium>
+<Value>-3018.00</Value>
+<Control />
+</TransactionPremium>
+<CommissionAdjustedPremium>
+<Value>-3018.00</Value>
+<Control />
+</CommissionAdjustedPremium>
+<FireServiceLevy>
+<Value>0.00</Value>
+<Control />
+</FireServiceLevy>
+<StampDuty>
+<Value>-298.80</Value>
+<Control />
+</StampDuty>
+<GoodsAndServiceTax>
+<Value>-301.80</Value>
+<Control />
+</GoodsAndServiceTax>
+<GrossPremium>
+<Value>-3618.60</Value>
+<Control />
+</GrossPremium>
+<Commission>
+<Amount>
+<Value>-422.52</Value>
+<Control />
+</Amount>
+<GST>
+<Value>-42.24</Value>
+<Control />
+</GST>
+</Commission>
+<YearToDate>
+<CommissionAdjustedPremium>
+<Value>0.00</Value>
+<Control />
+</CommissionAdjustedPremium>
+<Commission>
+<Amount>
+<Value>0.00</Value>
+<Control />
+</Amount>
+<GST>
+<Value>0.00</Value>
+<Control />
+</GST>
+</Commission>
+<FireServiceLevy>
+<Value>0.00</Value>
+<Control />
+</FireServiceLevy>
+<GoodsAndServiceTax>
+<Value>0.00</Value>
+<Control />
+</GoodsAndServiceTax>
+<StampDuty>
+<Value>0.00</Value>
+<Control />
+</StampDuty>
+<GrossPremium>
+<Value>0.00</Value>
+<Control />
+</GrossPremium>
+</YearToDate>
+</Premium>
+<Payment>
+<Method>
+<Value>CreditCard</Value>
+<Control />
+</Method>
+<Frequency>
+<Value>Monthly</Value>
+<Control />
+</Frequency>
+<PreviousFrequency>
+<Value>Monthly</Value>
+<Control />
+</PreviousFrequency>
+<FirstInstalmentAmount>
+<Value>301.55</Value>
+<Control />
+</FirstInstalmentAmount>
+<InstalmentAmount>
+<Value>301.55</Value>
+<Control />
+</InstalmentAmount>
+<InstalmentScheduleUpdateDate>
+<Control />
+</InstalmentScheduleUpdateDate>
+<NextBillingDate>
+<Value>2025-05-08</Value>
+<Control />
+</NextBillingDate>
+<RemainingTermInstalmentCount>12</RemainingTermInstalmentCount>
+<DishonourCount>
+<Value>0</Value>
+<Control />
+</DishonourCount>
+<DirectDebit>
+<BSB>
+<Control />
+</BSB>
+<AccountNumber>
+<Control />
+</AccountNumber>
+<AccountName>
+<Control />
+</AccountName>
+<FinancialInstitutionName>
+<Control />
+</FinancialInstitutionName>
+<FinancialInstitutionAddress>
+<Control />
+</FinancialInstitutionAddress>
+<FinancialInstitutionSuburb>
+<Control />
+</FinancialInstitutionSuburb>
+<FinancialInstitutionPostcode>
+<Control />
+</FinancialInstitutionPostcode>
+<FinancialInstitutionState>
+<Control />
+</FinancialInstitutionState>
+</DirectDebit>
+<CreditCard>
+<Type>
+<Value>Visa</Value>
+<Control />
+</Type>
+<Name>
+<Value>XXXXXXXXXX</Value>
+<Control />
+</Name>
+<Number>
+<Value>XXXXXXXXXXXXXXXX</Value>
+<Control />
+</Number>
+<ExpiryMonth>
+<Value>08</Value>
+<Control />
+</ExpiryMonth>
+<ExpiryYear>
+<Value>19</Value>
+<Control />
+</ExpiryYear>
+<CCVNo>
+<Control />
+</CCVNo>
+<PaymentMethodNonce>
+<Control />
+</PaymentMethodNonce>
+<PaymentMethodToken>
+<Control />
+</PaymentMethodToken>
+<HostedFieldCardType>
+<Control />
+</HostedFieldCardType>
+<MaskedCardNumber>
+<Control />
+</MaskedCardNumber>
+<RequestId>
+<Control />
+</RequestId>
+</CreditCard>
+<FirstPayment>
+<PaymentAmount>
+<Value>261.17</Value>
+<Control />
+</PaymentAmount>
+<PaymentDate>
+<Value>2018-05-01</Value>
+<Control />
+</PaymentDate>
+<MonthlyPaymentDate>
+<Value>2018-05-01</Value>
+<Control />
+</MonthlyPaymentDate>
+<PaymentTime>
+<Value>14:28:41</Value>
+<Control />
+</PaymentTime>
+<PaymentStatus>
+<Value>0</Value>
+<Control />
+</PaymentStatus>
+<ReceiptNumber>
+<Value>Unsupported</Value>
+<Control />
+</ReceiptNumber>
+<QSI_RRN>
+<Value>Unsupported</Value>
+<Control />
+</QSI_RRN>
+<ACQ_ResponseCode>
+<Value>Unsupported</Value>
+<Control />
+</ACQ_ResponseCode>
+<CCV_ResponseCode>
+<Value>Unsupported</Value>
+<Control />
+</CCV_ResponseCode>
+<ResponseBankBatch>
+<Value>Unsupported</Value>
+<Control />
+</ResponseBankBatch>
+<ResponseAuthorised>
+<Value>Unsupported</Value>
+<Control />
+</ResponseAuthorised>
+<MerchantId>ALLWC1MAA01</MerchantId>
+<Status>
+<Control />
+</Status>
+<TransactionId>
+<Control />
+</TransactionId>
+<AuthorisationCode>
+<Control />
+</AuthorisationCode>
+<ResponseCode>
+<Control />
+</ResponseCode>
+<ResponseText>
+<Control />
+</ResponseText>
+<SettlementBatchId>
+<Control />
+</SettlementBatchId>
+<Message>
+<Control />
+</Message>
+</FirstPayment>
+<CumulativeGapPremium>
+<IntermediaryFee>
+<Control />
+</IntermediaryFee>
+<IntermediaryFeeGST>
+<Control />
+</IntermediaryFeeGST>
+<GoodsAndServiceTax>
+<Value>0.00</Value>
+<Control />
+</GoodsAndServiceTax>
+<FireServiceLevy>
+<Value>0.00</Value>
+<Control />
+</FireServiceLevy>
+<StampDuty>
+<Value>0.00</Value>
+<Control />
+</StampDuty>
+<Commission>
+<Amount>
+<Value>0.00</Value>
+<Control />
+</Amount>
+<GST>
+<Value>0.00</Value>
+<Control />
+</GST>
+</Commission>
+<GrossPremium>
+<Value>0.00</Value>
+<Control />
+</GrossPremium>
+<NetPremium>
+<Value>0.00</Value>
+<Control />
+</NetPremium>
+</CumulativeGapPremium>
+<InstalmentPremiumHistory />
+<TotalNextInstalmentPremium>
+<IntermediaryFee>
+<Control />
+</IntermediaryFee>
+<IntermediaryFeeGST>
+<Control />
+</IntermediaryFeeGST>
+<GoodsAndServiceTax>
+<Value>0.00</Value>
+<Control />
+</GoodsAndServiceTax>
+<FireServiceLevy>
+<Value>0.00</Value>
+<Control />
+</FireServiceLevy>
+<StampDuty>
+<Value>0.00</Value>
+<Control />
+</StampDuty>
+<Commission>
+<Amount>
+<Value>0.00</Value>
+<Control />
+</Amount>
+<GST>
+<Value>0.00</Value>
+<Control />
+</GST>
+</Commission>
+<GrossPremium>
+<Value>0.00</Value>
+<Control />
+</GrossPremium>
+<NetPremium>
+<Value>0.00</Value>
+<Control />
+</NetPremium>
+</TotalNextInstalmentPremium>
+<Instalments>
+<PayByInstalment>
+<Control />
+</PayByInstalment>
+<NumberOfInstalments>
+<Control />
+</NumberOfInstalments>
+<CommissionPaymentMethod>
+<Control />
+</CommissionPaymentMethod>
+<CeaseInstalments>
+<Value>false</Value>
+<Control />
+</CeaseInstalments>
+<IntermediaryFeePaid>
+<Value>false</Value>
+<Control />
+</IntermediaryFeePaid>
+<TotalInstalmentDue>
+<Control />
+</TotalInstalmentDue>
+<InstalmentPayments />
+</Instalments>
+<IsConfirmedByUser>
+<Value>true</Value>
+<Control />
+</IsConfirmedByUser>
+<IntermediaryFeeDetails>
+<IntermediaryFee>
+<Control />
+</IntermediaryFee>
+<IntermediaryFeeGST>
+<Control />
+</IntermediaryFeeGST>
+<IntermediaryFeeGSTRate>
+<Control />
+</IntermediaryFeeGSTRate>
+<PreviousIntermediaryFee>
+<Control />
+</PreviousIntermediaryFee>
+<PreviousIntermediaryFeeGST>
+<Control />
+</PreviousIntermediaryFeeGST>
+</IntermediaryFeeDetails>
+</Payment>
+<OldPolicyNumber>
+<Control />
+</OldPolicyNumber>
+<CancellationReason>
+<Value>OT</Value>
+<Control />
+</CancellationReason>
+<Decline>
+<Code>
+<Control />
+</Code>
+<Message>
+<Control />
+</Message>
+</Decline>
+<CloseBusiness>
+<Value>true</Value>
+<Control />
+</CloseBusiness>
+<ElectronicReferrals />
+<ErrorStatus>
+<HasInvalid>
+<Value>false</Value>
+<Control />
+</HasInvalid>
+<HasDecline>
+<Value>false</Value>
+<Control />
+</HasDecline>
+<HasReferral>
+<Value>false</Value>
+<Control />
+</HasReferral>
+</ErrorStatus>
+<DPI>
+<MarketingSource>
+<Control />
+</MarketingSource>
+<MarketingDescription>
+<Control />
+</MarketingDescription>
+</DPI>
+<Tenure>
+<OriginalInceptionDate>
+<Value>2018-05-08</Value>
+<Control />
+</OriginalInceptionDate>
+<Period>
+<Control />
+</Period>
+</Tenure>
+<LockVersion>
+<Value>6</Value>
+<Control />
+</LockVersion>
+<SSID>
+<Control />
+</SSID>
+<CMID>
+<Control />
+</CMID>
+<AuthoriseQuoteReferral>
+<Control />
+</AuthoriseQuoteReferral>
+<PreviousTransactionType>
+<Value>Quote</Value>
+<Control />
+</PreviousTransactionType>
+<IndicativePriceButtonDisabled>
+<Control />
+</IndicativePriceButtonDisabled>
+<NswSmallBusinessStampDutyExempt>
+<Control />
+</NswSmallBusinessStampDutyExempt>
+<PreviousNswSmallBusinessStampDutyExempt>
+<Control />
+</PreviousNswSmallBusinessStampDutyExempt>
+<IsTechnicalPremiumAvailable>true</IsTechnicalPremiumAvailable>
+<FullIBEnabled>true</FullIBEnabled>
+</PolicyBasics>
+</Policy>
