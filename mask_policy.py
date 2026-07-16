@@ -47,7 +47,7 @@ def mask_policy_xml(input_file, output_file):
         './/Client/Code/Value',
         './/Client/GSTDetails/ABN/Value',
         './/Intermediary//AccountNumber/Value',
-        './/Intermediary//AccountName/Value',
+
         './/Intermediary//EmailAddress',
         './/User/Userid/Value',
         './/AuditLogs/Userid',
@@ -57,13 +57,12 @@ def mask_policy_xml(input_file, output_file):
         './/OldPolicyNumber/Value',
         './/DirectDebit/BSB/Value',
         './/DirectDebit/AccountNumber/Value',
-        './/DirectDebit/AccountName/Value',
+
         './/CreditCard/Name/Value',
         './/CreditCard/Number/Value',
         './/BankerId/Value',
         './/ExternalReferenceNumber/Value',
-        './/UnderwriterComments//User/Value',
-        './/UnderwriterComments//Note/Value',
+
         './/PrintDelivery/EmailAddress/Value',
         './/SMELeadData/InsuredName/Value',
         './/SMELeadData/ClientEmail/Value',
